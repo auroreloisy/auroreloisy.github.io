@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aurore Loisy"
+title                    : "Aurore Loisy's Homepage"
 title_separator          : "-"
 name                     : &name "Aurore Loisy"
 description              : &description "Researcher"
