@@ -10,7 +10,7 @@ redirect_from:
 
 # About me
 
-I am an interdisciplinary researcher working at the crossroads of fluid mechanics, artificial intelligence and biophysics. I aim at deciphering the algorithms that living organisms use to navigate their complex environments, such as cells in tissues or insects in turbulent flows. My goal is also to find ways to outsmart them, with applications to the design of artificial microswimmers and microdrones.
+I am an interdisciplinary researcher working at the crossroads of fluid mechanics, artificial intelligence and biophysics. I aim at deciphering the algorithms that living entities use to navigate their complex environment, from immune cells in human tissues to insects in turbulent flows. My goal is also to find ways to outsmart them, with applications to the design of artificial microswimmers and microdrones.
 
 * 2020 -- : Postdoctoral researcher at [IRPHE](https://irphe.univ-amu.fr/), Aix-Marseille Université, France
 
