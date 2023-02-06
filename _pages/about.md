@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,117 +8,43 @@ redirect_from:
   - /about.html
 ---
 
-# About me
+This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-I am an interdisciplinary researcher working at the crossroads of fluid mechanics, artificial intelligence and biophysics. I aim at deciphering the algorithms that living organisms, from single cells to higher animals, use to navigate their complex environments. 
+A data-driven personal website
+======
+Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-# Short bio
+Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-* 2020 -- : Postdoctoral researcher at [IRPHE](https://irphe.univ-amu.fr/), Aix-Marseille Université, France
+Getting started
+======
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
 
-* 2017 -- 2019: Postdoctoral researcher at [School of Mathematics](https://www.bristol.ac.uk/maths/), University of Bristol, UK
+Site-wide configuration
+------
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-* 2012 -- 2016: PhD student at [LMFA](http://lmfa.ec-lyon.fr/?lang=fr), Université de Lyon, France
+Create content & metadata
+------
+For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-# Press coverage
+**Markdown generator**
 
-In 2022, we showed that planktonic organisms can harvest turbulent fluctuations to migrate much more efficiently in the ocean by 'surfing' on the flow [J11]. This result was covered by several media:
-* [Le Monde Science & Médecine](https://www.lemonde.fr/sciences/article/2022/09/08/comment-le-copepode-surfe-pour-monter-et-descendre-plus-vite-dans-l-ocean_6140660_1650684.html): *Comment le copépode 'surfe' pour monter et descendre plus vite dans l'océan*, by David Larousserie
-* [Physics Magazine](https://physics.aps.org/articles/v15/122): *Turbulence-Surfing Plankton Can Double Their Speed*, by Katherine Wright
-* [CNRS INSIS Actualités](https://www.insis.cnrs.fr/index.php/fr/cnrsinfo/pour-aller-deux-fois-plus-vite-le-plancton-peut-surfer-sur-les-turbulences): *Pour aller deux fois plus vite, le plancton peut surfer sur les turbulences*
+I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
+) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
+How to edit your site's GitHub repository
+------
+Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-In 2018, we showed that mechanical energy can theoretically be extracted from an 'active' fluid such as a bacterial suspension [J05]. This implies that bacteria can be harnessed to power a (tiny) motor. I gave an interview to the excellent Quanta Magazine to popularize this discovery:
-* [Quanta Magazine](https://www.quantamagazine.org/swarming-bacteria-create-an-impossible-superfluid-20180726/): *Swarming Bacteria Create an 'Impossible' Superfluid*, by Charlie Wood
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
 
-# Publications
-
-[JXX] **A. Loisy** and R. A. Heinonen.
-Deep reinforcement learning for the olfactory search POMDP: a quantitative benchmark.
-*submitted* (**2023**).
-[[arxiv]](https://arxiv.org/abs/2302.00706)
-
-[J12] A. Ioratim-Uba, **A. Loisy**, S. Henkes, and T. B. Liverpool.
-The nonlinear motion of cells subject to external forces. 
-*Soft Matter* 18, 9008--9016 (**2022**).
-[[DOI]](https://pubs.rsc.org/en/content/articlelanding/2022/sm/d2sm00934j/unauth)
-[[arxiv]](https://arxiv.org/abs/2107.14556)
-[[download]](http://auroreloisy.github.io/files/Ioratim-Uba2022_SoftMatter_active-drop-under-forces.pdf)
-
-[J11] R. Monthiller, **A. Loisy**, M. A. R. Koehl, B. Favier, and C. Eloy. 
-Surfing on Turbulence: A Strategy for Planktonic Navigation. 
-*Physical Review Letters* 129, 064502 (**2022**).
-[[DOI]](https://doi.org/10.1103/PhysRevLett.129.064502)
-[[arxiv]](https://arxiv.org/abs/2110.10409)
-[[download]](http://auroreloisy.github.io/files/Monthiller2022_PhysRevLett_surfing-plankton.pdf)
-
-[J10] **A. Loisy** and C. Eloy. 
-OTTO: A Python package to simulate, solve and visualize the source-tracking POMDP. 
-*Journal of Open Source Software* 7, 4266 (**2022**).
-[[DOI]](https://doi.org/10.21105/joss.04266)
-[[download]](http://auroreloisy.github.io/files/Loisy2022b_JOpenSourceSoftw_otto.pdf)
-
-[J09] **A. Loisy** and C. Eloy. 
-Searching for a source without gradients: how good is infotaxis and how to beat it. 
-*Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences* 478, 20220118 (**2022**).
-[[DOI]](https://doi.org/10.1098/rspa.2022.0118)
-[[arxiv]](https://arxiv.org/abs/2112.10861)
-[[download]](http://auroreloisy.github.io/files/Loisy2022a_ProcRSocA_infotaxis.pdf)
-
-[J08] **A. Loisy**, J. Eggers, and T. B. Liverpool. 
-How many ways a cell can move: the modes of self-propulsion of an active drop. 
-*Soft Matter* 16, 3106--3124 (**2020**).
-[[DOI]](https://doi.org/10.1039/D0SM00070A)
-[[arxiv]](https://arxiv.org/abs/2001.03970)
-[[download]](http://auroreloisy.github.io/files/Loisy2020a_SoftMatter_active-drop.pdf)
-
-[J07] **A. Loisy**, J. Eggers, and T. B. Liverpool. 
-Tractionless self-propulsion of active drops.
-*Physical Review Letters* 123, 248006 (**2019**).
-[[DOI]](https://doi.org/10.1103/PhysRevLett.123.248006)
-[[arxiv]](https://arxiv.org/abs/1912.05051)
-[[download]](http://auroreloisy.github.io/files/Loisy2019b_PhysRevLett_tractionless-drop.pdf)
-
-[J06] **A. Loisy**, A. P. Thompson, J. Eggers, and T. B. Liverpool. 
-Exact results for sheared polar active suspensions with variable liquid crystalline order. 
-*Journal of Chemical Physics* 150, 104902 (**2019**).
-[[DOI]](https://doi.org/10.1063/1.5080343)
-[[arxiv]](https://arxiv.org/abs/2212.05534)
-[[download]](http://auroreloisy.github.io/files/Loisy2019a_JChemPhys_active-LC.pdf)
-
-[J05] **A. Loisy**, J. Eggers, and T. B. Liverpool.
-Active suspensions have nonmonotonic flow curves and multiple mechanical equilibria. 
-*Physical Review Letters* 121, 018001 (**2018**).
-[[DOI]](https://doi.org/10.1103/PhysRevLett.121.018001)
-[[arxiv]](https://arxiv.org/abs/1803.00533)
-[[download]](http://auroreloisy.github.io/files/Loisy2018b_PhysRevLett_negative-viscosity.pdf)
-
-[J04] **A. Loisy**, A. Naso, and P. D. M. Spelt. 
-The effective diffusivity of ordered and freely evolving bubbly suspensions. 
-*Journal of Fluid Mechanics* 840, 215--237 (**2018**).
-[[DOI]](https://doi.org/10.1017/jfm.2018.84)
-[[HAL]](https://hal.archives-ouvertes.fr/hal-02084829)
-[[download]](http://auroreloisy.github.io/files/Loisy2018a_JFluidMech_effective-diffusivity.pdf)
-
-[J03] **A. Loisy**, A. Naso, and P. D. M. Spelt. 
-Buoyancy-driven bubbly flows: ordered and free rise at small and intermediate volume fraction. 
-*Journal of Fluid Mechanics* 816, 94--141 (**2017**).
-[[DOI]](http://dx.doi.org/10.1017/jfm.2017.64)
-[[HAL]](https://hal.archives-ouvertes.fr/hal-01336649)
-[[download]](http://auroreloisy.github.io/files/Loisy2017b_JFluidMech_bubbly-flows.pdf)
-
-[J02] **A. Loisy** and A. Naso. 
-Interaction between a large buoyant bubble and turbulence. 
-*Physical Review Fluids* 2, 014606 (**2017**).
-[[DOI]](https://doi.org/10.1103/PhysRevFluids.2.014606)
-[[HAL]](https://hal.archives-ouvertes.fr/hal-01346796)
-[[download]](http://auroreloisy.github.io/files/Loisy2017a_PhysRevFluids_bubble-in-turbulence.pdf)
-
-[J01]. L. Jin, **A. Loisy**, and N. J. Brown. 
-Role of meteorological processes in ozone responses to emission controls in California’s San Joaquin Valley. 
-*Journal of Geophysical Research: Atmospheres* 118, 8010--8022 (**2013**). 
-[[DOI]](http://onlinelibrary.wiley.com/doi/10.1002/jgrd.50559/full) 
-[[download]](http://auroreloisy.github.io/files/Jin2013_JGeophysResearch_ozone.pdf)
-
-
-
+For more info
+------
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
