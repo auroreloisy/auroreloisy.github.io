@@ -40,20 +40,20 @@ On the same year, we showed that planktonic organisms can harvest turbulent fluc
 [JXX] **A. Loisy** and R. A. Heinonen.
 Deep reinforcement learning for the olfactory search POMDP: a quantitative benchmark.
 *submitted* (**2023**).
-[[arxiv]](https://arxiv.org/abs/2302.00706)
+[[arXiv]](https://arXiv.org/abs/2302.00706)
 
 [J12] A. Ioratim-Uba, **A. Loisy**, S. Henkes, and T. B. Liverpool.
 The nonlinear motion of cells subject to external forces. 
 *Soft Matter* 18, 9008--9016 (**2022**).
 [[DOI]](https://pubs.rsc.org/en/content/articlelanding/2022/sm/d2sm00934j/unauth)
-[[arxiv]](https://arxiv.org/abs/2107.14556)
+[[arXiv]](https://arXiv.org/abs/2107.14556)
 [[download]](http://auroreloisy.github.io/files/Ioratim-Uba2022_SoftMatter_active-drop-under-forces.pdf)
 
 [J11] R. Monthiller, **A. Loisy**, M. A. R. Koehl, B. Favier, and C. Eloy. 
 Surfing on Turbulence: A Strategy for Planktonic Navigation. 
 *Physical Review Letters* 129, 064502 (**2022**).
 [[DOI]](https://doi.org/10.1103/PhysRevLett.129.064502)
-[[arxiv]](https://arxiv.org/abs/2110.10409)
+[[arXiv]](https://arXiv.org/abs/2110.10409)
 [[download]](http://auroreloisy.github.io/files/Monthiller2022_PhysRevLett_surfing-plankton.pdf)
 
 [J10] **A. Loisy** and C. Eloy. 
@@ -66,35 +66,35 @@ OTTO: A Python package to simulate, solve and visualize the source-tracking POMD
 Searching for a source without gradients: how good is infotaxis and how to beat it. 
 *Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences* 478, 20220118 (**2022**).
 [[DOI]](https://doi.org/10.1098/rspa.2022.0118)
-[[arxiv]](https://arxiv.org/abs/2112.10861)
+[[arXiv]](https://arXiv.org/abs/2112.10861)
 [[download]](http://auroreloisy.github.io/files/Loisy2022a_ProcRSocA_infotaxis.pdf)
 
 [J08] **A. Loisy**, J. Eggers, and T. B. Liverpool. 
 How many ways a cell can move: the modes of self-propulsion of an active drop. 
 *Soft Matter* 16, 3106--3124 (**2020**).
 [[DOI]](https://doi.org/10.1039/D0SM00070A)
-[[arxiv]](https://arxiv.org/abs/2001.03970)
+[[arXiv]](https://arXiv.org/abs/2001.03970)
 [[download]](http://auroreloisy.github.io/files/Loisy2020a_SoftMatter_active-drop.pdf)
 
 [J07] **A. Loisy**, J. Eggers, and T. B. Liverpool. 
 Tractionless self-propulsion of active drops.
 *Physical Review Letters* 123, 248006 (**2019**).
 [[DOI]](https://doi.org/10.1103/PhysRevLett.123.248006)
-[[arxiv]](https://arxiv.org/abs/1912.05051)
+[[arXiv]](https://arXiv.org/abs/1912.05051)
 [[download]](http://auroreloisy.github.io/files/Loisy2019b_PhysRevLett_tractionless-drop.pdf)
 
 [J06] **A. Loisy**, A. P. Thompson, J. Eggers, and T. B. Liverpool. 
 Exact results for sheared polar active suspensions with variable liquid crystalline order. 
 *Journal of Chemical Physics* 150, 104902 (**2019**).
 [[DOI]](https://doi.org/10.1063/1.5080343)
-[[arxiv]](https://arxiv.org/abs/2212.05534)
+[[arXiv]](https://arXiv.org/abs/2212.05534)
 [[download]](http://auroreloisy.github.io/files/Loisy2019a_JChemPhys_active-LC.pdf)
 
 [J05] **A. Loisy**, J. Eggers, and T. B. Liverpool.
 Active suspensions have nonmonotonic flow curves and multiple mechanical equilibria. 
 *Physical Review Letters* 121, 018001 (**2018**).
 [[DOI]](https://doi.org/10.1103/PhysRevLett.121.018001)
-[[arxiv]](https://arxiv.org/abs/1803.00533)
+[[arXiv]](https://arXiv.org/abs/1803.00533)
 [[download]](http://auroreloisy.github.io/files/Loisy2018b_PhysRevLett_negative-viscosity.pdf)
 
 [J04] **A. Loisy**, A. Naso, and P. D. M. Spelt. 
@@ -124,3 +124,6 @@ Role of meteorological processes in ozone responses to emission controls in Cali
 [[DOI]](http://onlinelibrary.wiley.com/doi/10.1002/jgrd.50559/full) 
 [[download]](http://auroreloisy.github.io/files/Jin2013_JGeophysResearch_ozone.pdf)
 
+# Contact
+
+firstname.lastname@gmail.com
