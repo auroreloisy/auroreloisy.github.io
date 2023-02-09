@@ -72,7 +72,7 @@ Searching for a source without gradients: how good is infotaxis and how to beat 
 [J08] **A. Loisy**, J. Eggers, and T. B. Liverpool. 
 How many ways a cell can move: the modes of self-propulsion of an active drop. 
 *Soft Matter* 16, 3106--3124 (**2020**).
-[[DOI]](https://doi.org/10.1039/D0SM00070A)
+[[DOI]](https://pubs.rsc.org/en/content/articlelanding/2020/SM/D0SM00070A)
 [[arXiv]](https://arXiv.org/abs/2001.03970)
 [[download]](http://auroreloisy.github.io/files/Loisy2020a_SoftMatter_active-drop.pdf)
 
