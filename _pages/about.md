@@ -49,7 +49,7 @@ The nonlinear motion of cells subject to external forces.
 [[arXiv]](https://arXiv.org/abs/2107.14556)
 [[download]](http://auroreloisy.github.io/files/Ioratim-Uba2022_SoftMatter_active-drop-under-forces.pdf)
 
-[J11] R. Monthiller, **A. Loisy**, M. A. R. Koehl, B. Favier, and C. Eloy. 
+[11] R. Monthiller, **A. Loisy**, M. A. R. Koehl, B. Favier, and C. Eloy. 
 Surfing on Turbulence: A Strategy for Planktonic Navigation. 
 *Physical Review Letters* 129, 064502 (**2022**).
 [[DOI]](https://doi.org/10.1103/PhysRevLett.129.064502)
