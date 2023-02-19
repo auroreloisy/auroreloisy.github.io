@@ -37,8 +37,6 @@ On the same year, we showed that planktonic organisms can harvest turbulent fluc
 
 # Publications
 
-## Journals
-
 [XX] **A. Loisy** and R. A. Heinonen.
 Deep reinforcement learning for the olfactory search POMDP: a quantitative benchmark.
 *submitted* (**2023**).
@@ -126,7 +124,7 @@ Role of meteorological processes in ozone responses to emission controls in Cali
 [[DOI]](http://onlinelibrary.wiley.com/doi/10.1002/jgrd.50559/full) 
 [[download]](http://auroreloisy.github.io/files/Jin2013_JGeophysResearch_ozone.pdf)
 
-## PhD thesis
+# PhD thesis
 
 **A. Loisy**. 
 Direct numerical simulation of bubbly flows: coupling with scalar transport and turbulence. 
