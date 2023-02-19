@@ -128,7 +128,7 @@ Role of meteorological processes in ozone responses to emission controls in Cali
 
 **A. Loisy**. 
 Direct numerical simulation of bubbly flows: coupling with scalar transport and turbulence. 
-Université de Lyon (**2016**).
+*Université de Lyon* (**2016**).
 [[HAL]](https://theses.hal.science/tel-01418076v1)
 [[download]](http://auroreloisy.github.io/files/Loisy_PhD_thesis.pdf)
 
