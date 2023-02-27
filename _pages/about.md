@@ -26,7 +26,7 @@ In 2018, we demonstrated that mechanical energy can be extracted from an 'active
 * [Quanta Magazine](https://www.quantamagazine.org/swarming-bacteria-create-an-impossible-superfluid-20180726/): *Swarming Bacteria Create an 'Impossible' Superfluid*, by Charlie Wood
 
 In 2022, we trained a deep neural network to locate an odor source, a task relevant to insects looking for food but also sniffer robots tracking down gas leaks \[09\]. A news article was written about it:
-* [Centrale Marseille Actualités](https://www.centrale-marseille.fr/): *Après le jeu de Go et les jeux vidéo, l’intelligence artificielle bat désormais l’homme dans le domaine de la recherche olfactive*
+* [Centrale Marseille Actualités](https://www.centrale-marseille.fr/fr/news/aurore-loisy-post-doctorante-entrainer-une-intelligence-artificielle-faire-lhumain-recherche): *Après le jeu de Go et les jeux vidéo, l’intelligence artificielle bat désormais l’homme dans le domaine de la recherche olfactive*
 
 On the same year, we showed that planktonic organisms can exploit turbulent fluctuations to migrate much more efficiently in the ocean by 'surfing' the flow \[11\]. This result was covered by major scientific media:
 * [Le Monde Science & Médecine](https://www.lemonde.fr/sciences/article/2022/09/08/comment-le-copepode-surfe-pour-monter-et-descendre-plus-vite-dans-l-ocean_6140660_1650684.html): *Comment le copépode 'surfe' pour monter et descendre plus vite dans l'océan*, by David Larousserie
