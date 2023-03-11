@@ -38,7 +38,7 @@ On the same year, we showed that planktonic organisms can exploit turbulent fluc
 
 [13] **A. Loisy** and R. A. Heinonen.
 Deep reinforcement learning for the olfactory search POMDP: a quantitative benchmark.
-*accepted* (**2023**).
+*The European Physical Journal E*, accepted manuscript (**2023**).
 [[arXiv]](https://arXiv.org/abs/2302.00706)
 
 [12] A. Ioratim-Uba, **A. Loisy**, S. Henkes, and T. B. Liverpool.
