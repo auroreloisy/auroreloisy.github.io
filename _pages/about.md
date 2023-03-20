@@ -38,8 +38,10 @@ On the same year, we showed that planktonic organisms can exploit turbulent fluc
 
 [13] **A. Loisy** and R. A. Heinonen.
 Deep reinforcement learning for the olfactory search POMDP: a quantitative benchmark.
-*The European Physical Journal E*, accepted manuscript (**2023**).
+*The European Physical Journal E* 46, 17 (**2023**).
+[[DOI]](https://doi.org/10.1140/epje/s10189-023-00277-8)
 [[arXiv]](https://arXiv.org/abs/2302.00706)
+[[download]](http://auroreloisy.github.io/files/Loisy2023a_EurPhysJE_drl-benchmark.pdf)
 
 [12] A. Ioratim-Uba, **A. Loisy**, S. Henkes, and T. B. Liverpool.
 The nonlinear motion of cells subject to external forces. 
