@@ -20,15 +20,15 @@ I am an interdisciplinary researcher working at the crossroads of fluid mechanic
 
 I am the main developer of [OTTO](https://github.com/C0PEP0D/otto), a software dedicated to olfactory navigation and its solutions. It implements an original reinforcement learning algorithm that trains a deep neural network at finding an odor source in turbulence faster than any other known strategy.
 
-# Science popularisation
+# Science popularization
 
-In 2018, we demonstrated that mechanical energy can be extracted from an 'active' fluid such as a bacterial suspension \[05\]. This implies that bacteria can be harnessed to power a (tiny) motor. I gave an interview to the excellent Quanta Magazine to explain this discovery:
+In 2018, we demonstrated that mechanical energy can be extracted from an 'active' fluid such as a bacterial suspension \[05\]. This implies that bacteria can be harnessed to power a (tiny) motor:
 * [Quanta Magazine](https://www.quantamagazine.org/swarming-bacteria-create-an-impossible-superfluid-20180726/): *Swarming Bacteria Create an 'Impossible' Superfluid*, by Charlie Wood
 
-In 2022, we trained a deep neural network to locate an odor source, a task relevant to insects looking for food but also sniffer robots tracking down gas leaks \[09\]. A news article was written about it:
+In 2022, we trained a deep neural network to locate an odor source, a task relevant to insects looking for food but also sniffer robots tracking down gas leaks \[09\]:
 * [Centrale Marseille Actualités](https://www.centrale-marseille.fr/fr/news/aurore-loisy-post-doctorante-entrainer-une-intelligence-artificielle-faire-lhumain-recherche): *Entraîner une intelligence artificielle pour faire aussi bien que l’Humain dans la recherche olfactive*
 
-On the same year, we showed that planktonic organisms can exploit turbulent fluctuations to migrate much more efficiently in the ocean by 'surfing' the flow \[11\]. This result was covered by major scientific media:
+On the same year, we showed that planktonic organisms can exploit turbulent fluctuations to migrate much more efficiently in the ocean by 'surfing' the flow \[11\]:
 * [Le Monde Science & Médecine](https://www.lemonde.fr/sciences/article/2022/09/08/comment-le-copepode-surfe-pour-monter-et-descendre-plus-vite-dans-l-ocean_6140660_1650684.html): *Comment le copépode 'surfe' pour monter et descendre plus vite dans l'océan*, by David Larousserie
 * [Physics Magazine](https://physics.aps.org/articles/v15/122): *Turbulence-Surfing Plankton Can Double Their Speed*, by Katherine Wright
 * [CNRS INSIS Actualités](https://www.insis.cnrs.fr/index.php/fr/cnrsinfo/pour-aller-deux-fois-plus-vite-le-plancton-peut-surfer-sur-les-turbulences): *Pour aller deux fois plus vite, le plancton peut surfer sur les turbulences*
