@@ -36,16 +36,16 @@ On the same year, we showed that planktonic organisms can exploit turbulent fluc
 
 # Publications
 
-[13] **Deep reinforcement learning for the olfactory search POMDP: a quantitative benchmark.**\
+[13] [Deep reinforcement learning for the olfactory search POMDP: a quantitative benchmark](https://doi.org/10.1140/epje/s10189-023-00277-8)\
 A. Loisy and R. A. Heinonen.\
-*The European Physical Journal E* 46, 17 (2023).\
+**The European Physical Journal E** 46, 17 (2023).\
 [[DOI]](https://doi.org/10.1140/epje/s10189-023-00277-8)
 [[arXiv]](https://arXiv.org/abs/2302.00706)
 [[download]](http://auroreloisy.github.io/files/Loisy2023a_EurPhysJE_drl-benchmark.pdf)
 
-[12] A. Ioratim-Uba, **A. Loisy**, S. Henkes, and T. B. Liverpool.
-The nonlinear motion of cells subject to external forces. 
-*Soft Matter* 18, 9008--9016 (**2022**).
+[12] **The nonlinear motion of cells subject to external forces.**\
+A. Ioratim-Uba, A. Loisy, S. Henkes, and T. B. Liverpool.\
+*Soft Matter* 18, 9008--9016 (2022).\
 [[DOI]](https://pubs.rsc.org/en/content/articlelanding/2022/sm/d2sm00934j/unauth)
 [[arXiv]](https://arXiv.org/abs/2107.14556)
 [[download]](http://auroreloisy.github.io/files/Ioratim-Uba2022_SoftMatter_active-drop-under-forces.pdf)
