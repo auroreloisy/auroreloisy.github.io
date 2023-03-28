@@ -20,7 +20,7 @@ I am an interdisciplinary researcher working at the crossroads of fluid mechanic
 
 I am the main developer of [OTTO](https://github.com/C0PEP0D/otto), a software dedicated to olfactory navigation and its solutions. It implements an original reinforcement learning algorithm that trains a deep neural network at finding an odor source in turbulence faster than any other known strategy.
 
-# Science popularization
+# Highlights
 
 In 2018, we demonstrated that mechanical energy can be extracted from an 'active' fluid such as a bacterial suspension \[05\]. This implies that bacteria can be harnessed to power a (tiny) motor:
 * [Quanta Magazine](https://www.quantamagazine.org/swarming-bacteria-create-an-impossible-superfluid-20180726/): *Swarming Bacteria Create an 'Impossible' Superfluid*, by Charlie Wood
