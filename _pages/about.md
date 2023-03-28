@@ -36,100 +36,101 @@ On the same year, we showed that planktonic organisms can exploit turbulent fluc
 
 # Publications
 
-[13] [Deep reinforcement learning for the olfactory search POMDP: a quantitative benchmark](https://doi.org/10.1140/epje/s10189-023-00277-8)\
-A. Loisy and R. A. Heinonen.\
-**The European Physical Journal E** 46, 17 (2023).\
+[13] **Deep reinforcement learning for the olfactory search POMDP: a quantitative benchmark**\
+A. Loisy and R. A. Heinonen\
+*The European Physical Journal E* 46, 17 (2023)\
 [[DOI]](https://doi.org/10.1140/epje/s10189-023-00277-8)
 [[arXiv]](https://arXiv.org/abs/2302.00706)
 [[download]](http://auroreloisy.github.io/files/Loisy2023a_EurPhysJE_drl-benchmark.pdf)
 
-[12] **The nonlinear motion of cells subject to external forces.**\
-A. Ioratim-Uba, A. Loisy, S. Henkes, and T. B. Liverpool.\
-*Soft Matter* 18, 9008--9016 (2022).\
+[12] **The nonlinear motion of cells subject to external forces**\
+A. Ioratim-Uba, A. Loisy, S. Henkes, and T. B. Liverpool\
+*Soft Matter* 18, 9008--9016 (2022)\
 [[DOI]](https://pubs.rsc.org/en/content/articlelanding/2022/sm/d2sm00934j/unauth)
 [[arXiv]](https://arXiv.org/abs/2107.14556)
 [[download]](http://auroreloisy.github.io/files/Ioratim-Uba2022_SoftMatter_active-drop-under-forces.pdf)
 
-[11] R. Monthiller, **A. Loisy**, M. A. R. Koehl, B. Favier, and C. Eloy. 
-Surfing on Turbulence: A Strategy for Planktonic Navigation. 
-*Physical Review Letters* 129, 064502 (**2022**).
+[11] **Surfing on Turbulence: A Strategy for Planktonic Navigation**\
+R. Monthiller, A. Loisy, M. A. R. Koehl, B. Favier, and C. Eloy\
+*Physical Review Letters* 129, 064502 (2022)\
 [[DOI]](https://doi.org/10.1103/PhysRevLett.129.064502)
 [[arXiv]](https://arXiv.org/abs/2110.10409)
 [[download]](http://auroreloisy.github.io/files/Monthiller2022_PhysRevLett_surfing-plankton.pdf)
 
-[10] **A. Loisy** and C. Eloy. 
-OTTO: A Python package to simulate, solve and visualize the source-tracking POMDP. 
-*Journal of Open Source Software* 7, 4266 (**2022**).
+[10] **OTTO: A Python package to simulate, solve and visualize the source-tracking POMDP**\
+A. Loisy and C. Eloy\
+*Journal of Open Source Software* 7, 4266 (2022)\
 [[DOI]](https://doi.org/10.21105/joss.04266)
 [[download]](http://auroreloisy.github.io/files/Loisy2022b_JOpenSourceSoftw_otto.pdf)
 
-[09] **A. Loisy** and C. Eloy. 
-Searching for a source without gradients: how good is infotaxis and how to beat it. 
-*Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences* 478, 20220118 (**2022**).
+[09] **Searching for a source without gradients: how good is infotaxis and how to beat it**\
+A. Loisy and C. Eloy\
+*Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences* 478, 20220118 (2022)\
 [[DOI]](https://doi.org/10.1098/rspa.2022.0118)
 [[arXiv]](https://arXiv.org/abs/2112.10861)
 [[download]](http://auroreloisy.github.io/files/Loisy2022a_ProcRSocA_infotaxis.pdf)
 
-[08] **A. Loisy**, J. Eggers, and T. B. Liverpool. 
-How many ways a cell can move: the modes of self-propulsion of an active drop. 
-*Soft Matter* 16, 3106--3124 (**2020**).
+[08] **How many ways a cell can move: the modes of self-propulsion of an active drop**\
+A. Loisy, J. Eggers, and T. B. Liverpool\
+*Soft Matter* 16, 3106--3124 (2020)\
 [[DOI]](https://pubs.rsc.org/en/content/articlelanding/2020/SM/D0SM00070A)
 [[arXiv]](https://arXiv.org/abs/2001.03970)
 [[download]](http://auroreloisy.github.io/files/Loisy2020a_SoftMatter_active-drop.pdf)
 
-[07] **A. Loisy**, J. Eggers, and T. B. Liverpool. 
-Tractionless self-propulsion of active drops.
-*Physical Review Letters* 123, 248006 (**2019**).
+[07] **Tractionless self-propulsion of active drops**\
+A. Loisy, J. Eggers, and T. B. Liverpool\
+*Physical Review Letters* 123, 248006 (2019)\
 [[DOI]](https://doi.org/10.1103/PhysRevLett.123.248006)
 [[arXiv]](https://arXiv.org/abs/1912.05051)
 [[download]](http://auroreloisy.github.io/files/Loisy2019b_PhysRevLett_tractionless-drop.pdf)
 
-[06] **A. Loisy**, A. P. Thompson, J. Eggers, and T. B. Liverpool. 
-Exact results for sheared polar active suspensions with variable liquid crystalline order. 
-*Journal of Chemical Physics* 150, 104902 (**2019**).
+[06] **Exact results for sheared polar active suspensions with variable liquid crystalline order**\
+A. Loisy, A. P. Thompson, J. Eggers, and T. B. Liverpool\
+*Journal of Chemical Physics* 150, 104902 (2019)\
 [[DOI]](https://doi.org/10.1063/1.5080343)
 [[arXiv]](https://arXiv.org/abs/2212.05534)
 [[download]](http://auroreloisy.github.io/files/Loisy2019a_JChemPhys_active-LC.pdf)
 
-[05] **A. Loisy**, J. Eggers, and T. B. Liverpool.
-Active suspensions have nonmonotonic flow curves and multiple mechanical equilibria. 
-*Physical Review Letters* 121, 018001 (**2018**).
+[05] **Active suspensions have nonmonotonic flow curves and multiple mechanical equilibria**\
+A. Loisy, J. Eggers, and T. B. Liverpool\
+*Physical Review Letters* 121, 018001 (2018)
 [[DOI]](https://doi.org/10.1103/PhysRevLett.121.018001)
 [[arXiv]](https://arXiv.org/abs/1803.00533)
 [[download]](http://auroreloisy.github.io/files/Loisy2018b_PhysRevLett_negative-viscosity.pdf)
 
-[04] **A. Loisy**, A. Naso, and P. D. M. Spelt. 
-The effective diffusivity of ordered and freely evolving bubbly suspensions. 
-*Journal of Fluid Mechanics* 840, 215--237 (**2018**).
+[04] **The effective diffusivity of ordered and freely evolving bubbly suspensions**\
+A. Loisy, A. Naso, and P. D. M. Spelt\
+*Journal of Fluid Mechanics* 840, 215--237 (2018)\
 [[DOI]](https://doi.org/10.1017/jfm.2018.84)
 [[HAL]](https://hal.archives-ouvertes.fr/hal-02084829)
 [[download]](http://auroreloisy.github.io/files/Loisy2018a_JFluidMech_effective-diffusivity.pdf)
 
-[03] **A. Loisy**, A. Naso, and P. D. M. Spelt. 
-Buoyancy-driven bubbly flows: ordered and free rise at small and intermediate volume fraction. 
-*Journal of Fluid Mechanics* 816, 94--141 (**2017**).
+[03] **Buoyancy-driven bubbly flows: ordered and free rise at small and intermediate volume fraction**\
+A. Loisy, A. Naso, and P. D. M. Spelt\
+*Journal of Fluid Mechanics* 816, 94--141 (2017)\
 [[DOI]](http://dx.doi.org/10.1017/jfm.2017.64)
 [[HAL]](https://hal.archives-ouvertes.fr/hal-01336649)
 [[download]](http://auroreloisy.github.io/files/Loisy2017b_JFluidMech_bubbly-flows.pdf)
 
-[02] **A. Loisy** and A. Naso. 
-Interaction between a large buoyant bubble and turbulence. 
-*Physical Review Fluids* 2, 014606 (**2017**).
+[02] **Interaction between a large buoyant bubble and turbulence**\
+A. Loisy and A. Naso\
+*Physical Review Fluids* 2, 014606 (2017)\
 [[DOI]](https://doi.org/10.1103/PhysRevFluids.2.014606)
 [[HAL]](https://hal.archives-ouvertes.fr/hal-01346796)
 [[download]](http://auroreloisy.github.io/files/Loisy2017a_PhysRevFluids_bubble-in-turbulence.pdf)
 
-[01] L. Jin, **A. Loisy**, and N. J. Brown. 
-Role of meteorological processes in ozone responses to emission controls in California’s San Joaquin Valley. 
-*Journal of Geophysical Research: Atmospheres* 118, 8010--8022 (**2013**). 
+[01] **Role of meteorological processes in ozone responses to emission controls in California’s San Joaquin Valley**\
+L. Jin, A. Loisy, and N. J. Brown\
+*Journal of Geophysical Research: Atmospheres* 118, 8010--8022 (2013)\
 [[DOI]](http://onlinelibrary.wiley.com/doi/10.1002/jgrd.50559/full) 
 [[download]](http://auroreloisy.github.io/files/Jin2013_JGeophysResearch_ozone.pdf)
 
 # PhD thesis
 
-**A. Loisy**. 
-Direct numerical simulation of bubbly flows: coupling with scalar transport and turbulence. 
-*Université de Lyon* (**2016**).
+
+**Direct numerical simulation of bubbly flows: coupling with scalar transport and turbulence**\
+A. Loisy\
+*Université de Lyon* (2016)\
 [[HAL]](https://theses.hal.science/tel-01418076v1)
 [[download]](http://auroreloisy.github.io/files/Loisy_PhD_thesis.pdf)
 
