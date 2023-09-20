@@ -12,7 +12,7 @@ redirect_from:
 
 I am an interdisciplinary researcher working at the crossroads of fluid mechanics, artificial intelligence and biophysics. I aim at deciphering the algorithms that living entities use to navigate their complex environment, from immune cells in human tissues to insects in turbulent flows. My goal is also to find ways to outsmart them, with applications to the design of artificial microswimmers and microdrones.
 
-* 2023 -- present: CNRS researcher at [IRPHE](https://irphe.univ-amu.fr/), Aix-Marseille Université, France
+* since 2023: CNRS researcher at [IRPHE](https://irphe.univ-amu.fr/), Aix-Marseille Université, France
 
 * 2020 -- 2023: Postdoctoral researcher at [IRPHE](https://irphe.univ-amu.fr/), Aix-Marseille Université, France
 
