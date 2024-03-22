@@ -10,15 +10,7 @@ redirect_from:
 
 # About me
 
-I am an interdisciplinary researcher working at the crossroads of fluid mechanics, artificial intelligence and biophysics. I aim at deciphering the algorithms that living entities use to navigate their complex environment, from immune cells in human tissues to insects in turbulent flows. My goal is also to find ways to outsmart them, with applications to the design of artificial microswimmers and microdrones.
-
-* since 2023: CNRS researcher at [IRPHE](https://irphe.univ-amu.fr/), Aix-Marseille Université, France
-
-* 2020 -- 2023: Postdoctoral researcher at [IRPHE](https://irphe.univ-amu.fr/), Aix-Marseille Université, France
-
-* 2017 -- 2019: Postdoctoral researcher at the [School of Mathematics](https://www.bristol.ac.uk/maths/), University of Bristol, UK
-
-* 2012 -- 2016: PhD student at [LMFA](http://lmfa.ec-lyon.fr/?lang=fr), Université de Lyon, France
+I am a CNRS researcher working at the crossroads of fluid mechanics, artificial intelligence and biophysics. My current research aims at deciphering the algorithms that living entities use to navigate their complex environment, from immune cells in human tissues to insects in turbulent flows. My goal is also to find ways to outsmart them, with applications to the design of artificial microswimmers and microdrones.
 
 I am the main developer of [OTTO](https://github.com/C0PEP0D/otto), a software dedicated to olfactory navigation and its solutions. It implements an original reinforcement learning algorithm that trains a deep neural network at finding an odor source in turbulence faster than any other known strategy.
 
@@ -34,6 +26,17 @@ On the same year, we showed that planktonic organisms can exploit turbulent fluc
 * [Le Monde Science & Médecine](https://www.lemonde.fr/sciences/article/2022/09/08/comment-le-copepode-surfe-pour-monter-et-descendre-plus-vite-dans-l-ocean_6140660_1650684.html): *Comment le copépode 'surfe' pour monter et descendre plus vite dans l'océan*, by David Larousserie
 * [Physics Magazine](https://physics.aps.org/articles/v15/122): *Turbulence-Surfing Plankton Can Double Their Speed*, by Katherine Wright
 * [CNRS INSIS Actualités](https://www.insis.cnrs.fr/index.php/fr/cnrsinfo/pour-aller-deux-fois-plus-vite-le-plancton-peut-surfer-sur-les-turbulences): *Pour aller deux fois plus vite, le plancton peut surfer sur les turbulences*
+
+
+# CV
+
+* since 2023: CNRS researcher at [IRPHE](https://irphe.univ-amu.fr/), Aix-Marseille Université, France
+
+* 2020 -- 2023: Postdoctoral researcher at [IRPHE](https://irphe.univ-amu.fr/), Aix-Marseille Université, France
+
+* 2017 -- 2019: Postdoctoral researcher at the [School of Mathematics](https://www.bristol.ac.uk/maths/), University of Bristol, UK
+
+* 2012 -- 2016: PhD student at [LMFA](http://lmfa.ec-lyon.fr/?lang=fr), Université de Lyon, France
 
 
 # Publications
