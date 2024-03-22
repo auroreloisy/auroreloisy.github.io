@@ -10,14 +10,11 @@ redirect_from:
 
 # About me
 
-I am a CNRS researcher working at the crossroads of fluid mechanics, artificial intelligence and biophysics. My current research aims at deciphering the algorithms that living entities use to navigate their complex environment, from immune cells in human tissues to insects in turbulent flows. My goal is also to find ways to outsmart them, with applications to the design of artificial microswimmers and microdrones.
+I am a CNRS researcher working at [IRPHE](https://irphe.univ-amu.fr/) in Marseille, France. My research lies at the crossroads of fluid mechanics, artificial intelligence and biophysics. I aim at deciphering the algorithms that living entities use to navigate their complex environment, from immune cells in human tissues to insects in turbulent flows. My goal is also to find ways to outsmart them, with applications to the design of artificial microswimmers and microdrones.
 
 I am the main developer of [OTTO](https://github.com/C0PEP0D/otto), a software dedicated to olfactory navigation and its solutions. It implements an original reinforcement learning algorithm that trains a deep neural network at finding an odor source in turbulence faster than any other known strategy.
 
 # Highlights
-
-In 2018, we demonstrated that mechanical energy can be extracted from an 'active' fluid such as a bacterial suspension \[05\]. This implies that bacteria can be harnessed to power a (tiny) motor:
-* [Quanta Magazine](https://www.quantamagazine.org/swarming-bacteria-create-an-impossible-superfluid-20180726/): *Swarming Bacteria Create an 'Impossible' Superfluid*, by Charlie Wood
 
 In 2022, we trained a deep neural network to locate an odor source, a task relevant to insects looking for food but also sniffer robots tracking down gas leaks \[09\]:
 * [Centrale Marseille Actualités](https://www.centrale-mediterranee.fr/fr/aurore-loisy-post-doctorante-entrainer-une-intelligence-artificielle-pour-faire-aussi-bien-que-0): *Entraîner une intelligence artificielle pour faire aussi bien que l’Humain dans la recherche olfactive*
@@ -27,6 +24,8 @@ On the same year, we showed that planktonic organisms can exploit turbulent fluc
 * [Physics Magazine](https://physics.aps.org/articles/v15/122): *Turbulence-Surfing Plankton Can Double Their Speed*, by Katherine Wright
 * [CNRS INSIS Actualités](https://www.insis.cnrs.fr/index.php/fr/cnrsinfo/pour-aller-deux-fois-plus-vite-le-plancton-peut-surfer-sur-les-turbulences): *Pour aller deux fois plus vite, le plancton peut surfer sur les turbulences*
 
+In 2018, we demonstrated that mechanical energy can be extracted from an 'active' fluid such as a bacterial suspension \[05\]. This implies that bacteria can be harnessed to power a (tiny) motor:
+* [Quanta Magazine](https://www.quantamagazine.org/swarming-bacteria-create-an-impossible-superfluid-20180726/): *Swarming Bacteria Create an 'Impossible' Superfluid*, by Charlie Wood
 
 # CV
 
