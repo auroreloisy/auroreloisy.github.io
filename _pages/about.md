@@ -29,17 +29,6 @@ On the same year, we showed that planktonic organisms can exploit turbulent fluc
 In 2018, we demonstrated that mechanical energy can be extracted from an 'active' fluid such as a bacterial suspension \[05\]. This implies that bacteria can be harnessed to power a (tiny) motor:
 * [Quanta Magazine](https://www.quantamagazine.org/swarming-bacteria-create-an-impossible-superfluid-20180726/): *Swarming Bacteria Create an 'Impossible' Superfluid*, by Charlie Wood
 
-# CV
-
-since 2023: CNRS researcher at [IRPHE](https://irphe.univ-amu.fr/), Aix-Marseille Université, France
-
-2020 -- 2023: Postdoctoral researcher at [IRPHE](https://irphe.univ-amu.fr/), Aix-Marseille Université, France
-
-2017 -- 2019: Postdoctoral researcher at the [School of Mathematics](https://www.bristol.ac.uk/maths/), University of Bristol, UK
-
-2012 -- 2016: PhD student at [LMFA](http://lmfa.ec-lyon.fr/?lang=fr), Université de Lyon, France
-
-
 # Publications
 
 [13] **Deep reinforcement learning for the olfactory search POMDP: a quantitative benchmark**\
@@ -133,12 +122,21 @@ L. Jin, A. Loisy, and N. J. Brown\
 
 # PhD thesis
 
-
 **Direct numerical simulation of bubbly flows: coupling with scalar transport and turbulence**\
 A. Loisy\
 *Université de Lyon* (2016)\
 [[HAL]](https://theses.hal.science/tel-01418076v1)
 [[download]](http://auroreloisy.github.io/files/Loisy_PhD_thesis.pdf)
+
+# CV
+
+* since 2023: CNRS researcher at [IRPHE](https://irphe.univ-amu.fr/), Aix-Marseille Université, France
+
+* 2020 -- 2023: Postdoctoral researcher at [IRPHE](https://irphe.univ-amu.fr/), Aix-Marseille Université, France
+
+* 2017 -- 2019: Postdoctoral researcher at the [School of Mathematics](https://www.bristol.ac.uk/maths/), University of Bristol, UK
+
+* 2012 -- 2016: PhD student at [LMFA](http://lmfa.ec-lyon.fr/?lang=fr), Université de Lyon, France
 
 # Contact
 
