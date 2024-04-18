@@ -144,4 +144,4 @@ A. Loisy\
 
 # Contact
 
-firstname.lastname@gmail.com
+firstname.lastname@univ-amu.fr
