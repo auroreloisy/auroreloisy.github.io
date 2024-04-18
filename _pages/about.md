@@ -18,7 +18,7 @@ I am the main developer of [OTTO](https://github.com/C0PEP0D/otto), a software d
 
 # Job openings
 
-A **[PhD position]**(http://auroreloisy.github.io/jobs/PhD_reinforcement-learning-olfactory-navigation.pdf) on reinforcement learning for olfactory navigation in turbulent flows is available.
+A [**PhD position**](http://auroreloisy.github.io/jobs/PhD_reinforcement-learning-olfactory-navigation.pdf) on reinforcement learning for olfactory navigation in turbulent flows is available.
 
 # Highlights
 
