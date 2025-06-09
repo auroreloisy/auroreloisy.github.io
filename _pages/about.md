@@ -37,6 +37,11 @@ In 2018, we demonstrated that mechanical energy can be extracted from an 'active
 
 # Publications
 
+[14] **A critical assessment of reinforcement learning methods for microswimmer navigation in complex flows**\
+S. Mecanna, A. Loisy and C. Eloy (2025)\
+under review\
+[[arXiv]](https://arxiv.org/abs/2505.05525)
+
 [13] **Deep reinforcement learning for the olfactory search POMDP: a quantitative benchmark**\
 A. Loisy and R. A. Heinonen\
 *The European Physical Journal E* 46, 17 (2023)\
