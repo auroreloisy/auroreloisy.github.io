@@ -18,7 +18,7 @@ I am the main developer of [OTTO](https://github.com/C0PEP0D/otto), a software d
 
 # Job openings
 
-A **3-year postdoc position** on cooperation strategies for bio-inspired navigation in complex flows is currently open.
+A [**3-year postdoc position**](http://auroreloisy.github.io/jobs/2025_postdoc_irphe_anr.pdf) on cooperation strategies for bio-inspired navigation in complex flows is currently open.
 
 This is an interdisciplinary project between active matter, reinforcement learning and fluid mechanics. Candidates are expected to have experience in a least one of these areas, and should contact me by email (a job ad will be posted soon).
 
