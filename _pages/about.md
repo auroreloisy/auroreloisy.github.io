@@ -36,13 +36,13 @@ In 2018, we demonstrated that mechanical energy can be extracted from an 'active
 # Publications
 
 [15] **A critical assessment of reinforcement learning methods for microswimmer navigation in complex flows**\
-S. Mecanna, A. Loisy and C. Eloy (2025)\
-under review\
+S. Mecanna, A. Loisy and C. Eloy\
+under review (2025)\
 [[arXiv]](https://arxiv.org/abs/2505.05525)
 
 [14] **Applying Reinforcement Learning to Navigation In Partially Observable Flows**\
-S. Mecanna, A. Loisy and C. Eloy (2024)\
-*17th European Workshop on Reinforcement Learning (EWRL)*\
+S. Mecanna, A. Loisy and C. Eloy\
+*17th European Workshop on Reinforcement Learning (EWRL) (2024)*\
 [[DOI]](https://openreview.net/forum?id=9JAajeK84e)
 [[download]](http://auroreloisy.github.io/files/Mecanna2024_EWRL_rl-pomdp-navigation.pdf)
 
