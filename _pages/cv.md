@@ -11,23 +11,11 @@ redirect_from:
 
 Education
 ======
-* PhD in Fluid Mechanics, Université de Lyon, 2016
-* Master in Fluid Mechanics, Université de Lyon, 2012
-* Engineering Degree, INSA Lyon, 2011
+
 
 Work experience
 ======
-* Since 01/2020: Postdoctoral researcher at IRPHE, Aix-Marseille Université, France
 
-* 01/2017--12/2019: Postdoctoral researcher at School of Mathematics, University of Bristol, UK
-
-* 10/2012--09/2016: PhD thesis at LMFA, Université de Lyon, France
-
-* 03/2012--09/2012: Master thesis at LMFA, Université de Lyon, France
-
-* 03/2011--09/2011: Research Assistant at LBNL, Berkeley, USA
-
-* 03/2010--09/2010: Intern at LBNL, Berkeley, USA
   
 Skills
 ======
