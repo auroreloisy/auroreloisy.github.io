@@ -194,127 +194,153 @@ body:hover .visually-hidden button {
 }
 
 /* social icons*/
+$icon-grey-color: #3f3f3f; /* Define your preferred grey color once */
 
 .social-icons {
   .fa {
-    color: #000;
+    /*color: #000;*/
+    color: $icon-grey-color;
   }
 
   .fa-bluesky,
   .fa-bluesky-square {
-    color: $bluesky-color;
+    /*color: $bluesky-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-behance,
   .fa-behance-square {
-    color: $behance-color;
+    /*color: $behance-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-dribbble {
-    color: $dribbble-color;
+    /*color: $dribbble-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-facebook,
   .fa-facebook-square {
-    color: $facebook-color;
+    /*color: $facebook-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-flickr {
-    color: $flickr-color;
+    /*color: $flickr-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-foursquare {
-    color: $foursquare-color;
+    /*color: $foursquare-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-github,
   .fa-github-alt,
   .fa-github-square {
-    color: $github-color;
+    /*color: $github-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-google-plus,
   .fa-google-plus-square {
-    color: $google-plus-color;
+    /*color: $google-plus-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-instagram {
-    color: $instagram-color;
+    /*color: $instagram-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-kaggle,
   .fa-kaggle-square {
-    color: $kaggle-color;
+    /*color: $kaggle-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-lastfm,
   .fa-lastfm-square {
-    color: $lastfm-color;
+    /*color: $lastfm-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-linkedin,
   .fa-linkedin-square {
-    color: $linkedin-color;
+    /*color: $linkedin-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-mastodon,
   .fa-mastodon-square {
-    color: $mastodon-color;
+    /*  color: $mastodon-color;*/
+    color: $icon-grey-color;
   }
 
   .ai-orcid,
   .ai-orcid-square {
-    color: $orcid-color;
+    /*color: $orcid-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-pinterest,
   .fa-pinterest-p,
   .fa-pinterest-square {
-    color: $pinterest-color;
+    /*color: $pinterest-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-rss,
   .fa-rss-square {
-    color: $rss-color;
+    /*color: $rss-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-soundcloud {
-    color: $soundcloud-color;
+    /*color: $soundcloud-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-stack-exchange,
   .fa-stack-overflow {
-    color: $stackoverflow-color;
+    /*color: $stackoverflow-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-tumblr,
   .fa-tumblr-square {
-    color: $tumblr-color;
+    /*color: $tumblr-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-twitter,
   .fa-twitter-square {
-    color: $twitter-color;
+    /*color: $twitter-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-vimeo,
   .fa-vimeo-square {
-    color: $vimeo-color;
+    /*color: $vimeo-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-vine {
-    color: $vine-color;
+    /*color: $vine-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-youtube,
   .fa-youtube-square,
   .fa-youtube-play {
-    color: $youtube-color;
+    /*color: $youtube-color;*/
+    color: $icon-grey-color;
   }
 
   .fa-xing,
   .fa-xing-square {
-    color: $xing-color;
+    /*color: $xing-color;*/
+    color: $icon-grey-color;
   }
 }
 
