@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air" 
-title                    : "Title of website"
+title                    : "Title of website"  # Goes to topleft of the page, and is displayed at the top of the browser
 title_separator          : "-"
-name                     : &name "Aurore Loisy"
+name                     : &name "Name"
 description              : &description "Researcher"
 url                      : https://auroreloisy.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,9 +23,9 @@ repository               : "auroreloisy/auroreloisy.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Fluid Mechanics, Artificial Intelligence, Biophysics"# "Aurore Loisy" # side bar name
+  name             : "Sidebar name"# "Aurore Loisy" # side bar name
   pronouns         : # example: "she/her"  
-  bio              : # "Fluid Mechanics, Artificial Intelligence, Biophysics"  # "Short biography for the left-hand sidebar"
+  bio              : "Short bio"  # "Fluid Mechanics, Artificial Intelligence, Biophysics"  # "Short biography for the left-hand sidebar"
   location         : "Marseille, France"
   employer         : # "Red Brick University"
   uri              : # URL
