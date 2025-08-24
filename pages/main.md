@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:
+title: "Tile of the main page"
 author_profile: true
 redirect_from: 
   - /home/
@@ -9,7 +9,7 @@ redirect_from:
 
 # About
 
-TEST
+TESTING
 
 I am a CNRS researcher working at [IRPHE](https://irphe.univ-amu.fr/) in Marseille, France. 
 
