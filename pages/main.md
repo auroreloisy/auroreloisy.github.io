@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "PageTitle"
 author_profile: true
 redirect_from: 
   - /home/
@@ -8,8 +7,6 @@ redirect_from:
 ---
 
 # About
-
-TTT
 
 I am a CNRS researcher working at [IRPHE](https://irphe.univ-amu.fr/) in Marseille, France. 
 

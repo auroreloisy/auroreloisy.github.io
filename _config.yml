@@ -23,7 +23,7 @@ repository               : "auroreloisy/auroreloisy.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sidebar name"# "Aurore Loisy" # side bar name
+  name             : "Sidebar name" # "Aurore Loisy" # side bar name
   pronouns         : # example: "she/her"  
   bio              : "Short bio"  # "Fluid Mechanics, Artificial Intelligence, Biophysics"  # "Short biography for the left-hand sidebar"
   location         : "Marseille, France"
