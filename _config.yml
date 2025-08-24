@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air" 
-title                    : "Aurore Loisy"
+title                    : "Title of website"
 title_separator          : "-"
 name                     : &name "Aurore Loisy"
 description              : &description "Researcher"
@@ -23,9 +23,9 @@ repository               : "auroreloisy/auroreloisy.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : # "Aurore Loisy" # side bar name
+  name             : "Fluid Mechanics, Artificial Intelligence, Biophysics"# "Aurore Loisy" # side bar name
   pronouns         : # example: "she/her"  
-  bio              : "Fluid Mechanics, Artificial Intelligence, Biophysics"  # "Short biography for the left-hand sidebar"
+  bio              : # "Fluid Mechanics, Artificial Intelligence, Biophysics"  # "Short biography for the left-hand sidebar"
   location         : "Marseille, France"
   employer         : # "Red Brick University"
   uri              : # URL
