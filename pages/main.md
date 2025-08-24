@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "Tile of the main page"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /home/
