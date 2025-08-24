@@ -11,12 +11,11 @@ $light-primary-color        : mix(#00000000, $primary-color, 50%);
 $background                 : #252a34;
 $background-light           : mix(#fff, $background, 20%);
 $background-lighter         : mix(#fff, $background, 90%);
+$background-darker          : mix(#000, $background, 30%);
 $text                       : #eaeaea;
 $link                       : $primary-color;
 $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#fff, $link, 25%);
-$header                     : mix(#000, $background, 30%);
-$footer                     : mix(#000, $background, 30%);
 
 
 /* Color codes used for the site */
@@ -38,10 +37,10 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Dark theme for the site */
 html[data-theme="dark"] {
-    --global-base-color                 : #{$background};  /* for interactive elements */
+    --global-base-color                 : #{$background-darker};  /* for interactive elements */
     --global-bg-color                   : #{$background};  /* for all backgrounds except header and footer */
-    --global-header-bg-color            : #{$header};
-    --global-footer-bg-color            : #{$footer};
+    --global-header-bg-color            : #{$background-darker};
+    --global-footer-bg-color            : #{$background-darker};
     --global-border-color               : #{$light-primary-color};
     --global-dark-border-color          : #{$background-light};
     --global-code-background-color      : #fafafa;
