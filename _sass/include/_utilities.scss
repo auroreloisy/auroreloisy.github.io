@@ -194,154 +194,151 @@ body:hover .visually-hidden button {
 }
 
 /* social icons*/
-$icon-grey-color: #b92323; /* Define your preferred grey color once */
 
 .social-icons {
-  .fa {
-    /*color: #000;*/
-    color: $icon-grey-color;
+  /* Use theme-aware color for all icons */
+  .fa,
+  .fab,
+  .fas,
+  .far {
+    color: var(--global-text-color);
   }
 
+  /* Specific overrides for each icon type - all using theme colors */
   .fa-bluesky,
   .fa-bluesky-square {
-    /*color: $bluesky-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-behance,
   .fa-behance-square {
-    /*color: $behance-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-dribbble {
-    /*color: $dribbble-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-facebook,
   .fa-facebook-square {
-    /*color: $facebook-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-flickr {
-    /*color: $flickr-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-foursquare {
-    /*color: $foursquare-color;*/
-    color: $icon-grey-color;
+    color: var(--global-foursquare-color);
   }
 
   .fa-github,
   .fa-github-alt,
   .fa-github-square {
-    /*color: $github-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-google-plus,
   .fa-google-plus-square {
-    /*color: $google-plus-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-instagram {
-    /*color: $instagram-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-kaggle,
   .fa-kaggle-square {
-    /*color: $kaggle-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-lastfm,
   .fa-lastfm-square {
-    /*color: $lastfm-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-linkedin,
   .fa-linkedin-square {
-    /*color: $linkedin-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-mastodon,
   .fa-mastodon-square {
-    /*  color: $mastodon-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .ai-orcid,
   .ai-orcid-square {
-    /*color: $orcid-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-pinterest,
   .fa-pinterest-p,
   .fa-pinterest-square {
-    /*color: $pinterest-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-rss,
   .fa-rss-square {
-    /*color: $rss-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-soundcloud {
-    /*color: $soundcloud-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-stack-exchange,
   .fa-stack-overflow {
-    /*color: $stackoverflow-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-tumblr,
   .fa-tumblr-square {
-    /*color: $tumblr-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-twitter,
   .fa-twitter-square {
-    /*color: $twitter-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-vimeo,
   .fa-vimeo-square {
-    /*color: $vimeo-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-vine {
-    /*color: $vine-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-youtube,
   .fa-youtube-square,
   .fa-youtube-play {
-    /*color: $youtube-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
 
   .fa-xing,
   .fa-xing-square {
-    /*color: $xing-color;*/
-    color: $icon-grey-color;
+    color: var(--global-text-color);
   }
+}
+
+/* Additional specificity for icons in different contexts */
+.author__urls .fa,
+.author__urls .fab,
+.author__urls .fas,
+.author__urls .far,
+.author__urls .ai {
+  color: var(--global-text-color);
+}
+
+/* Footer icons */
+.page__footer .social-icons .fa,
+.page__footer .social-icons .fab,
+.page__footer .social-icons .fas,
+.page__footer .social-icons .far,
+.page__footer .social-icons .ai {
+  color: var(--global-text-color);
 }
 
 
