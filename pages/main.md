@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"  # page title as shown in browser (page title - website title)
+title: "Aurore Loisy"  # page title as shown in browser (page title - website title)
 author_profile: true
 redirect_from: 
   - /home/

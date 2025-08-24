@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air" 
-# title                    : "Title of website"  # Goes to topleft of the page, and is displayed at the top of the browser
-# title_separator          : "-"
+title                    : "Fluid Mechanics, Artificial Intelligence, Biophysics"  # Goes to topleft of the page, also in browser page title (page title - website title)
+title_separator          : "-"
 name                     : &name "Aurore Loisy"  # Will appear in the copyright footer
 description              : &description "Aurore Loisy - CNRS Researcher - Fluid Mechanics, Artificial Intelligence, Biophysics"  # for search engines
 url                      : https://auroreloisy.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -23,9 +23,9 @@ repository               : "auroreloisy/auroreloisy.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sidebar name" # "Aurore Loisy" # side bar name
+  name             : "Aurore Loisy" # side bar name, appears below the picture
   pronouns         : # example: "she/her"  
-  bio              : "Short bio"  # "Fluid Mechanics, Artificial Intelligence, Biophysics"  # "Short biography for the left-hand sidebar"
+  bio              : # "Short bio"  # "Fluid Mechanics, Artificial Intelligence, Biophysics"  # "Short biography for the left-hand sidebar"
   location         : "Marseille, France"
   employer         : # "Red Brick University"
   uri              : # URL
