@@ -9,8 +9,6 @@ redirect_from:
 
 # About
 
-I am a CNRS researcher working at [IRPHE](https://irphe.univ-amu.fr/) in Marseille, France. 
-
 My research lies at the crossroads of fluid mechanics, artificial intelligence and biophysics. I aim at deciphering the algorithms that living entities use to navigate their complex environment, from immune cells in human tissues to insects in turbulent flows. My goal is also to find ways to outsmart them, with applications to the design of artificial microswimmers and microdrones.
 
 I am the main developer of [OTTO](https://github.com/C0PEP0D/otto), a software dedicated to olfactory navigation and its solutions. It implements an original reinforcement learning algorithm that trains a deep neural network at finding an odor source in turbulence faster than any other known strategy.
@@ -141,5 +139,7 @@ A. Loisy\
 *Université de Lyon* (2016)\
 [[HAL]](https://theses.hal.science/tel-01418076v1)
 [[download]](http://auroreloisy.github.io/papers/Loisy_PhD_thesis.pdf)
+
+
 
 
