@@ -13,7 +13,7 @@ My research lies at the crossroads of fluid mechanics, artificial intelligence a
 
 I am the main developer of [OTTO](https://github.com/C0PEP0D/otto), a software dedicated to olfactory navigation and its solutions. It implements an original reinforcement learning algorithm that trains a deep neural network at finding an odor source in turbulence faster than any other known strategy.
 
-# Job openings <a name="jobs"></a>
+# Job openings
 
 A [**3-year postdoc position**](http://auroreloisy.github.io/jobs/2025_postdoc_irphe_anr.pdf) on cooperation strategies for bio-inspired navigation in complex flows is currently available.
 

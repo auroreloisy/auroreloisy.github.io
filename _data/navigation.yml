@@ -12,7 +12,7 @@ main:
     url: "#about"
 
   - title: "Job openings"
-    url: "#jobs"
+    url: "#job-openings"
 
   - title: "Highlights"
     url: "#highlights"
