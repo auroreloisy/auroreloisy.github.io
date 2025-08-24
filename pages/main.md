@@ -7,6 +7,7 @@ redirect_from:
   - /home.html
 ---
 
+# About
 
 I am a CNRS researcher working at [IRPHE](https://irphe.univ-amu.fr/) in Marseille, France. 
 
