@@ -1,56 +1,143 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title:
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a CNRS researcher working at [IRPHE](https://irphe.univ-amu.fr/) in Marseille, France. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research lies at the crossroads of fluid mechanics, artificial intelligence and biophysics. I aim at deciphering the algorithms that living entities use to navigate their complex environment, from immune cells in human tissues to insects in turbulent flows. My goal is also to find ways to outsmart them, with applications to the design of artificial microswimmers and microdrones.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am the main developer of [OTTO](https://github.com/C0PEP0D/otto), a software dedicated to olfactory navigation and its solutions. It implements an original reinforcement learning algorithm that trains a deep neural network at finding an odor source in turbulence faster than any other known strategy.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+# Job openings
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+A [**3-year postdoc position**](http://auroreloisy.github.io/jobs/2025_postdoc_irphe_anr.pdf) on cooperation strategies for bio-inspired navigation in complex flows is currently available.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+# Highlights
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+In 2022, we trained a deep neural network to locate an odor source, a task relevant to insects looking for food but also sniffer robots tracking down gas leaks \[09\]:
+* [Centrale Marseille Actualités](https://www.centrale-mediterranee.fr/fr/aurore-loisy-post-doctorante-entrainer-une-intelligence-artificielle-pour-faire-aussi-bien-que-0): *Entraîner une intelligence artificielle pour faire aussi bien que l’Humain dans la recherche olfactive*
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+On the same year, we showed that planktonic organisms can exploit turbulent fluctuations to migrate much more efficiently in the ocean by 'surfing' the flow \[11\]:
+* [Le Monde Science & Médecine](https://www.lemonde.fr/sciences/article/2022/09/08/comment-le-copepode-surfe-pour-monter-et-descendre-plus-vite-dans-l-ocean_6140660_1650684.html): *Comment le copépode 'surfe' pour monter et descendre plus vite dans l'océan*, by David Larousserie
+* [Physics Magazine](https://physics.aps.org/articles/v15/122): *Turbulence-Surfing Plankton Can Double Their Speed*, by Katherine Wright
+* [CNRS INSIS Actualités](https://www.insis.cnrs.fr/index.php/fr/cnrsinfo/pour-aller-deux-fois-plus-vite-le-plancton-peut-surfer-sur-les-turbulences): *Pour aller deux fois plus vite, le plancton peut surfer sur les turbulences*
 
-**Markdown generator**
+In 2018, we demonstrated that mechanical energy can be extracted from an 'active' fluid such as a bacterial suspension \[05\]. This implies that bacteria can be harnessed to power a (tiny) motor:
+* [Quanta Magazine](https://www.quantamagazine.org/swarming-bacteria-create-an-impossible-superfluid-20180726/): *Swarming Bacteria Create an 'Impossible' Superfluid*, by Charlie Wood
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+# Publications
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+[15] **A critical assessment of reinforcement learning methods for microswimmer navigation in complex flows**\
+S. Mecanna, A. Loisy and C. Eloy\
+under review (2025)\
+[[arXiv]](https://arxiv.org/abs/2505.05525)
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+[14] **Applying Reinforcement Learning to Navigation In Partially Observable Flows**\
+S. Mecanna, A. Loisy and C. Eloy\
+*17th European Workshop on Reinforcement Learning (EWRL) (2024)*\
+[[DOI]](https://openreview.net/forum?id=9JAajeK84e)
+[[download]](http://auroreloisy.github.io/files/Mecanna2024_EWRL_rl-pomdp-navigation.pdf)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[13] **Deep reinforcement learning for the olfactory search POMDP: a quantitative benchmark**\
+A. Loisy and R. A. Heinonen\
+*The European Physical Journal E* 46, 17 (2023)\
+[[DOI]](https://doi.org/10.1140/epje/s10189-023-00277-8)
+[[arXiv]](https://arXiv.org/abs/2302.00706)
+[[download]](http://auroreloisy.github.io/files/Loisy2023a_EurPhysJE_drl-benchmark.pdf)
+
+[12] **The nonlinear motion of cells subject to external forces**\
+A. Ioratim-Uba, A. Loisy, S. Henkes, and T. B. Liverpool\
+*Soft Matter* 18, 9008--9016 (2022)\
+[[DOI]](https://pubs.rsc.org/en/content/articlelanding/2022/sm/d2sm00934j/unauth)
+[[arXiv]](https://arXiv.org/abs/2107.14556)
+[[download]](http://auroreloisy.github.io/files/Ioratim-Uba2022_SoftMatter_active-drop-under-forces.pdf)
+
+[11] **Surfing on Turbulence: A Strategy for Planktonic Navigation**\
+R. Monthiller, A. Loisy, M. A. R. Koehl, B. Favier, and C. Eloy\
+*Physical Review Letters* 129, 064502 (2022)\
+[[DOI]](https://doi.org/10.1103/PhysRevLett.129.064502)
+[[arXiv]](https://arXiv.org/abs/2110.10409)
+[[download]](http://auroreloisy.github.io/files/Monthiller2022_PhysRevLett_surfing-plankton.pdf)
+
+[10] **OTTO: A Python package to simulate, solve and visualize the source-tracking POMDP**\
+A. Loisy and C. Eloy\
+*Journal of Open Source Software* 7, 4266 (2022)\
+[[DOI]](https://doi.org/10.21105/joss.04266)
+[[download]](http://auroreloisy.github.io/files/Loisy2022b_JOpenSourceSoftw_otto.pdf)
+
+[09] **Searching for a source without gradients: how good is infotaxis and how to beat it**\
+A. Loisy and C. Eloy\
+*Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences* 478, 20220118 (2022)\
+[[DOI]](https://doi.org/10.1098/rspa.2022.0118)
+[[arXiv]](https://arXiv.org/abs/2112.10861)
+[[download]](http://auroreloisy.github.io/files/Loisy2022a_ProcRSocA_infotaxis.pdf)
+
+[08] **How many ways a cell can move: the modes of self-propulsion of an active drop**\
+A. Loisy, J. Eggers, and T. B. Liverpool\
+*Soft Matter* 16, 3106--3124 (2020)\
+[[DOI]](https://pubs.rsc.org/en/content/articlelanding/2020/SM/D0SM00070A)
+[[arXiv]](https://arXiv.org/abs/2001.03970)
+[[download]](http://auroreloisy.github.io/files/Loisy2020a_SoftMatter_active-drop.pdf)
+
+[07] **Tractionless self-propulsion of active drops**\
+A. Loisy, J. Eggers, and T. B. Liverpool\
+*Physical Review Letters* 123, 248006 (2019)\
+[[DOI]](https://doi.org/10.1103/PhysRevLett.123.248006)
+[[arXiv]](https://arXiv.org/abs/1912.05051)
+[[download]](http://auroreloisy.github.io/files/Loisy2019b_PhysRevLett_tractionless-drop.pdf)
+
+[06] **Exact results for sheared polar active suspensions with variable liquid crystalline order**\
+A. Loisy, A. P. Thompson, J. Eggers, and T. B. Liverpool\
+*Journal of Chemical Physics* 150, 104902 (2019)\
+[[DOI]](https://doi.org/10.1063/1.5080343)
+[[arXiv]](https://arXiv.org/abs/2212.05534)
+[[download]](http://auroreloisy.github.io/files/Loisy2019a_JChemPhys_active-LC.pdf)
+
+[05] **Active suspensions have nonmonotonic flow curves and multiple mechanical equilibria**\
+A. Loisy, J. Eggers, and T. B. Liverpool\
+*Physical Review Letters* 121, 018001 (2018)
+[[DOI]](https://doi.org/10.1103/PhysRevLett.121.018001)
+[[arXiv]](https://arXiv.org/abs/1803.00533)
+[[download]](http://auroreloisy.github.io/files/Loisy2018b_PhysRevLett_negative-viscosity.pdf)
+
+[04] **The effective diffusivity of ordered and freely evolving bubbly suspensions**\
+A. Loisy, A. Naso, and P. D. M. Spelt\
+*Journal of Fluid Mechanics* 840, 215--237 (2018)\
+[[DOI]](https://doi.org/10.1017/jfm.2018.84)
+[[HAL]](https://hal.archives-ouvertes.fr/hal-02084829)
+[[download]](http://auroreloisy.github.io/files/Loisy2018a_JFluidMech_effective-diffusivity.pdf)
+
+[03] **Buoyancy-driven bubbly flows: ordered and free rise at small and intermediate volume fraction**\
+A. Loisy, A. Naso, and P. D. M. Spelt\
+*Journal of Fluid Mechanics* 816, 94--141 (2017)\
+[[DOI]](http://dx.doi.org/10.1017/jfm.2017.64)
+[[HAL]](https://hal.archives-ouvertes.fr/hal-01336649)
+[[download]](http://auroreloisy.github.io/files/Loisy2017b_JFluidMech_bubbly-flows.pdf)
+
+[02] **Interaction between a large buoyant bubble and turbulence**\
+A. Loisy and A. Naso\
+*Physical Review Fluids* 2, 014606 (2017)\
+[[DOI]](https://doi.org/10.1103/PhysRevFluids.2.014606)
+[[HAL]](https://hal.archives-ouvertes.fr/hal-01346796)
+[[download]](http://auroreloisy.github.io/files/Loisy2017a_PhysRevFluids_bubble-in-turbulence.pdf)
+
+[01] **Role of meteorological processes in ozone responses to emission controls in California’s San Joaquin Valley**\
+L. Jin, A. Loisy, and N. J. Brown\
+*Journal of Geophysical Research: Atmospheres* 118, 8010--8022 (2013)\
+[[DOI]](http://onlinelibrary.wiley.com/doi/10.1002/jgrd.50559/full) 
+[[download]](http://auroreloisy.github.io/files/Jin2013_JGeophysResearch_ozone.pdf)
+
+# PhD thesis
+
+**Direct numerical simulation of bubbly flows: coupling with scalar transport and turbulence**\
+A. Loisy\
+*Université de Lyon* (2016)\
+[[HAL]](https://theses.hal.science/tel-01418076v1)
+[[download]](http://auroreloisy.github.io/files/Loisy_PhD_thesis.pdf)
+
+
