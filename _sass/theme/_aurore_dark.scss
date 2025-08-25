@@ -11,8 +11,10 @@ $background-dark            : mix(#000, $background, 30%);
 
 $text                       : #eaeaea;
 
-$main-link                  : $text;
-$main-link-hover            : #a9e013; /*mix(#fff, $link, 25%); */
+/* Links in main text (underlining upon hovering is hardcoded in _page.scss) */
+$main-link-color            : $text;
+$main-link-color-hover      : $flashy;
+$main-link-font-weight      : bold;  /* bold or normal */
 
 
 /* Color for buttons and notices (UI elements)*/
@@ -39,11 +41,12 @@ html[data-theme="dark"] {
     --global-bg-color                   : #{$background};  /* for all backgrounds except header and footer */
     --global-header-bg-color            : #{$background-dark};
     --global-footer-bg-color            : #{$background-dark};
-    --global-border-color               : #{$flashy}; /* all borders, include bottom lines when navigation elements are hovered on */
+    --global-border-color               : #{$flashy}; /* all borders, include bottom lines when navigation elements are hovered */
     --global-profilepic-border-color    : #{$background};  /* the circle around the profile picture */
     --global-footer-border-color        : #{$background-light};  /* the line between the footer and the main text */
-    --global-link-color                 : #{$main-link};  /* color of links in the main text */
-    --global-link-color-hover           : #{$main-link-hover};  /* ??? */
+    --global-link-color                 : #{$main-link-color};  /* color of links in the main text */
+    --global-link-color-hover           : #{$main-link-color-hover};  /* color of links in the main text when hovered */
+    --global-link-font-weight           : #{$main-link-font-weight};  /* font weight of links in the main text */
     --global-masthead-link-color        : #{$text};  /* color of links in the header */
     --global-masthead-link-color-hover  : #{$flashy};  /* color of links in the header when hovered */
     --global-text-color                 : #{$text};  /* color of text in the main text */
