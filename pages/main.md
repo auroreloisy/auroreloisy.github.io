@@ -9,7 +9,7 @@ redirect_from:
 
 # About
 
-I am interested in everything that move in flows, whether passively (bubbles, particles) or actively (bacteria, animals). 
+I am interested in everything that moves in flows, whether passively (bubbles, particles) or actively (bacteria, animals). 
 
 My current research lies at the crossroads of fluid mechanics, artificial intelligence and biophysics. I aim at deciphering the algorithms that living entities use to navigate their complex environment, from immune cells in human tissues to insects in turbulent flows. My goal is also to find ways to outsmart them, with applications to the design of artificial microswimmers and microdrones.
 
@@ -130,13 +130,13 @@ A. Loisy and A. Naso\
 [[HAL]](https://hal.archives-ouvertes.fr/hal-01346796)
 [[download]](http://auroreloisy.github.io/papers/Loisy2017a_PhysRevFluids_bubble-in-turbulence.pdf)
 
-[01] **Role of meteorological processes in ozone responses to emission controls in California’s San Joaquin Valley**\
+[01] [Role of meteorological processes in ozone responses to emission controls in California’s San Joaquin Valley](http://auroreloisy.github.io/papers/Jin2013_JGeophysResearch_ozone.pdf)\
 L. Jin, A. Loisy, and N. J. Brown\
 *Journal of Geophysical Research: Atmospheres* 118, 8010--8022 (2013)\
 [[DOI]](http://onlinelibrary.wiley.com/doi/10.1002/jgrd.50559/full) 
 [[download]](http://auroreloisy.github.io/papers/Jin2013_JGeophysResearch_ozone.pdf)
 
-[PhD] **Direct numerical simulation of bubbly flows: coupling with scalar transport and turbulence**\
+[PhD] [Direct numerical simulation of bubbly flows: coupling with scalar transport and turbulence](http://auroreloisy.github.io/papers/Loisy_PhD_thesis.pdf)\
 A. Loisy\
 *Université de Lyon* (2016)\
 [[HAL]](https://theses.hal.science/tel-01418076v1)
