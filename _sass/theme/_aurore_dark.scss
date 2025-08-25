@@ -11,16 +11,17 @@ $background-dark            : mix(#000, $background, 30%);
 
 $text                       : #eaeaea;
 
-$link                       : $flashy;
+$link                       : #ec2bb3;
 $link-hover                 : #a9e013; /*mix(#fff, $link, 25%); */
 
 
 /* Color codes used for the site */
-$danger-color               : #f700ff;
-$info-color                 : #fbff00;
-$notice-color               : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f80606;
+$unused-color               : #ff0000;
+$danger-color               : $unused-color;  /* unused */
+$info-color                 : $unused-color;  /* unused */
+$notice-color               : $unused-color;  /* unused */
+$success-color              : $unused-color;
+$warning-color              : $unused-color;
 
 /* Other basic settings for the template */
 $border-radius              : 4px;
