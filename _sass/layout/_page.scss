@@ -75,8 +75,9 @@
 
   a {
     color: var(--global-link-color);
-    transition: color 0.2s ease;
     font-weight: var(--global-link-font-weight);
+    text-decoration: none;
+    transition: color 0.2s ease;
 
     &:hover {
       color: var(--global-link-color-hover);
