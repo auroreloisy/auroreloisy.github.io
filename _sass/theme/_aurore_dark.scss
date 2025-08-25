@@ -12,7 +12,7 @@ $background-dark            : mix(#000, $background, 30%);
 $text                       : #eaeaea;
 
 $main-link                  : $text;
-$main-link-hover                 : #a9e013; /*mix(#fff, $link, 25%); */
+$main-link-hover            : #a9e013; /*mix(#fff, $link, 25%); */
 
 
 /* Color for buttons and notices (UI elements)*/
@@ -39,13 +39,13 @@ html[data-theme="dark"] {
     --global-bg-color                   : #{$background};  /* for all backgrounds except header and footer */
     --global-header-bg-color            : #{$background-dark};
     --global-footer-bg-color            : #{$background-dark};
-    --global-border-color               : #{$flashy};
+    --global-border-color               : #{$unused-color}; /* all borders, include bottom lines when navigation elements are hovered on */
     --global-profilepic-border-color    : #{$background};  /* the circle around the profile picture */
     --global-footer-border-color        : #{$background-light};  /* the line between the footer and the main text */
     --global-link-color                 : #{$main-link};  /* color of links in the main text */
     --global-link-color-hover           : #{$main-link-hover};  /* ??? */
     --global-masthead-link-color        : #{$text};  /* color of links in the header */
-    --global-masthead-link-color-hover  : #{$unused-color};  /* color of links in the header when hovered */
+    --global-masthead-link-color-hover  : #{$flashy};  /* color of links in the header when hovered */
     --global-text-color                 : #{$text};  /* color of text in the main text */
     --global-text-color-light           : #{$text};  /* color of text in footer and footnotes */
     --global-code-background-color      : #fafafa;
