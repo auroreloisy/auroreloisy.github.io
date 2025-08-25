@@ -11,7 +11,7 @@ $background-dark            : mix(#000, $background, 30%);
 
 $text                       : #eaeaea;
 
-/* Links in main text (underlining upon hovering is hardcoded in _page.scss) */
+/* Links in main text */
 $main-link-color            : $text;
 $main-link-color-hover      : $flashy;
 $main-link-font-weight      : bold;  /* bold or normal */
