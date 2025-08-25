@@ -265,7 +265,7 @@
 
 /* Bio link styling */
 .bio-link {
-  color: inherit;
+  color: var(--global-text-color);
   text-decoration: none;
   transition: all 0.2s ease;
   
