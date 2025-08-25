@@ -133,12 +133,12 @@ A. Loisy and A. Naso\
 [01] **Role of meteorological processes in ozone responses to emission controls in California’s San Joaquin Valley**
 L. Jin, A. Loisy, and N. J. Brown\
 *Journal of Geophysical Research: Atmospheres* 118, 8010--8022 (2013)\
-<a href="http://onlinelibrary.wiley.com/doi/10.1002/jgrd.50559/full" class="btn btn--pub">DOI</a>
-<a href="http://auroreloisy.github.io/papers/Jin2013_JGeophysResearch_ozone.pdf" class="btn btn--pub">Download</a>
+<a href="http://onlinelibrary.wiley.com/doi/10.1002/jgrd.50559/full" class="pub-btn">DOI</a>
+<a href="http://auroreloisy.github.io/papers/Jin2013_JGeophysResearch_ozone.pdf" class="pub-btn">PDF</a>
 
 [PhD] **Direct numerical simulation of bubbly flows: coupling with scalar transport and turbulence**\
 A. Loisy\
 *Université de Lyon* (2016)\
-<a href="https://theses.hal.science/tel-01418076v1" class="btn btn--pub">HAL</a>
-<a href="http://auroreloisy.github.io/papers/Loisy_PhD_thesis.pdf" class="btn btn--pub">Download</a>
+<a href="https://theses.hal.science/tel-01418076v1" class="pub-btn">HAL</a>
+<a href="http://auroreloisy.github.io/papers/Loisy_PhD_thesis.pdf" class="pub-btn">PDF</a>
 
