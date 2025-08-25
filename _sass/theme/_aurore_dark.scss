@@ -39,7 +39,7 @@ html[data-theme="dark"] {
     --global-bg-color                   : #{$background};  /* for all backgrounds except header and footer */
     --global-header-bg-color            : #{$background-dark};
     --global-footer-bg-color            : #{$background-dark};
-    --global-border-color               : #{$unused-color}; /* all borders, include bottom lines when navigation elements are hovered on */
+    --global-border-color               : #{$flashy}; /* all borders, include bottom lines when navigation elements are hovered on */
     --global-profilepic-border-color    : #{$background};  /* the circle around the profile picture */
     --global-footer-border-color        : #{$background-light};  /* the line between the footer and the main text */
     --global-link-color                 : #{$main-link};  /* color of links in the main text */
