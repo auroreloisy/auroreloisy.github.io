@@ -13,7 +13,7 @@ title                    : "Fluid Mechanics, Artificial Intelligence, Biophysics
 title_separator          : "-"
 name                     : &name "Aurore Loisy"  # will appear in the copyright footer
 description              : &description "Aurore Loisy - CNRS Researcher - Fluid Mechanics, Artificial Intelligence, Biophysics"  # for search engines
-url                      : https://auroreloisy.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://auroreloisy.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "auroreloisy/auroreloisy.github.io"
 
