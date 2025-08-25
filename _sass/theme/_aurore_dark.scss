@@ -3,7 +3,7 @@
    ========================================================================== */
 
 /* Color codes used for the theme */
-$flashy                     : #e05e13;
+$primary                     : #e05e13;
 
 $background                 : #252a34;
 $background-light           : mix(#fff, $background, 20%);
@@ -11,8 +11,8 @@ $background-dark            : mix(#000, $background, 30%);
 
 $text                       : #eaeaea;
 
-/* Links in main text */
-$main-link-color            : $flashy;
+/* Links in main text (underlining upon hovering is hardcoded in _page.scss), also determines colors of publication buttons */
+$main-link-color            : $text;
 $main-link-color-hover      : $main-link-color;
 $main-link-font-weight      : bold;  /* bold or normal */
 
@@ -41,17 +41,17 @@ html[data-theme="dark"] {
     --global-bg-color                   : #{$background};  /* for all backgrounds except header and footer */
     --global-header-bg-color            : #{$background-dark};
     --global-footer-bg-color            : #{$background-dark};
-    --global-border-color               : #{$flashy}; /* all borders, include bottom lines when navigation elements are hovered */
+    --global-border-color               : #{$primary}; /* all borders, include bottom lines when navigation elements are hovered */
     --global-profilepic-border-color    : #{$background};  /* the circle around the profile picture */
     --global-footer-border-color        : #{$background-light};  /* the line between the footer and the main text */
     --global-link-color                 : #{$main-link-color};  /* color of links in the main text */
     --global-link-color-hover           : #{$main-link-color-hover};  /* color of links in the main text when hovered */
     --global-link-font-weight           : #{$main-link-font-weight};  /* font weight of links in the main text */
     --global-masthead-link-color        : #{$text};  /* color of links in the header */
-    --global-masthead-link-color-hover  : #{$flashy};  /* color of links in the header when hovered */
+    --global-masthead-link-color-hover  : #{$primary};  /* color of links in the header when hovered */
     --global-text-color                 : #{$text};  /* color of text in the main text */
     --global-text-color-light           : #{$text};  /* color of text in footer and footnotes */
     --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$text};
-    --global-fig-caption-color          : #{$flashy};
+    --global-fig-caption-color          : #{$primary};
 }
