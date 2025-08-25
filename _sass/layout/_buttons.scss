@@ -185,10 +185,12 @@
   border-radius: 4px;
   transition: all 0.2s ease !important;
   cursor: pointer;
+  text-decoration: none !important;
   background-color: var(--global-bg-color) !important;
   color: var(--global-link-color) !important;
   
   &:hover {
+    text-decoration: none !important;
     background-color: var(--global-link-color) !important;
     color: var(--global-text-color) !important;
     box-shadow: 0 2px 4px rgba(0,0,0,0.2);
