@@ -12,8 +12,8 @@ $background-dark            : mix(#000, $background, 30%);
 $text                       : #eaeaea;
 
 /* Links in main text */
-$main-link-color            : $text;
-$main-link-color-hover      : $flashy;
+$main-link-color            : $flashy;
+$main-link-color-hover      : $main-link-color;
 $main-link-font-weight      : bold;  /* bold or normal */
 
 
