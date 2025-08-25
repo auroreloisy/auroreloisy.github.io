@@ -74,7 +74,9 @@
   }
 
   a {
-    text-decoration: underline;
+    color: var(--global-link-color);
+    text-decoration: none;
+    transition: color 0.2s ease;
 
     &:hover {
       text-decoration: underline;
