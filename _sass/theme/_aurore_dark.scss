@@ -11,15 +11,15 @@ $background-dark            : mix(#000, $background, 30%);
 
 $text                       : #eaeaea;
 
-$link                       : #ec2bb3;
-$link-hover                 : #a9e013; /*mix(#fff, $link, 25%); */
+$main-link                  : $text;
+$main-link-hover                 : #a9e013; /*mix(#fff, $link, 25%); */
 
 
-/* Color codes used for the site */
+/* Color for buttons and notices (UI elements)*/
 $unused-color               : #ff0000;
-$danger-color               : $unused-color;  /* unused */
-$info-color                 : $unused-color;  /* unused */
-$notice-color               : $unused-color;  /* unused */
+$danger-color               : $unused-color;
+$info-color                 : $unused-color;
+$notice-color               : $unused-color;
 $success-color              : $unused-color;
 $warning-color              : $unused-color;
 
@@ -41,14 +41,14 @@ html[data-theme="dark"] {
     --global-footer-bg-color            : #{$background-dark};
     --global-border-color               : #{$flashy};
     --global-profilepic-border-color    : #{$background};  /* the circle around the profile picture */
-    --global-footer-border-color        : #{$background-light};
+    --global-footer-border-color        : #{$background-light};  /* the line between the footer and the main text */
+    --global-link-color                 : #{$main-link};  /* color of links in the main text */
+    --global-link-color-hover           : #{$main-link-hover};  /* ??? */
+    --global-masthead-link-color        : #{$text};  /* color of links in the header */
+    --global-masthead-link-color-hover  : #{$unused-color};  /* color of links in the header when hovered */
+    --global-text-color                 : #{$text};  /* color of text in the main text */
+    --global-text-color-light           : #{$text};  /* color of text in footer and footnotes */
     --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$text};
     --global-fig-caption-color          : #{$flashy};
-    --global-link-color                 : #{$link};
-    --global-link-color-hover           : #{$link-hover};
-    --global-masthead-link-color        : #{$text};
-    --global-masthead-link-color-hover  : #{$flashy};
-    --global-text-color                 : #{$text};
-    --global-text-color-light           : #{$text};
 }
