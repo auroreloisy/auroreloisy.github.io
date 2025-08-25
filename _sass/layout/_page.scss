@@ -75,13 +75,11 @@
 
   a {
     color: var(--global-link-color);
-    font-weight: var(--global-link-font-weight);
-    text-decoration: none;
+    text-decoration: underline;
     transition: color 0.2s ease;
 
     &:hover {
       color: var(--global-link-color-hover);
-      text-decoration: none;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
