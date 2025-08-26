@@ -38,7 +38,7 @@ $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
 /* Light theme for the site */
-html[data-theme="light"] {
+:root {
     --global-base-color                 : #{$background-dark};  /* for interactive elements */
     --global-bg-color                   : #{$background};  /* for all backgrounds except header and footer */
     --global-header-bg-color            : #{$background-dark};
