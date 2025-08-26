@@ -1,0 +1,61 @@
+/* ==========================================================================
+   Customized from the Minimal Mistakes skin
+   ========================================================================== */
+
+/* Color codes used for the theme */
+$primary                    : #0e8bc5;
+
+$background                 : #f5f6f8;
+$background-dark            : mix(#000, $background, 7%);
+$background-darker          : mix(#000, $background, 50%);
+
+$text                       : #222831;
+
+/* Links in main text (underlining upon hovering is hardcoded in _page.scss), also determines colors of publication buttons */
+$main-link-color            : $primary;
+$main-link-color-hover      : $main-link-color;
+$main-link-font-weight      : bold;  /* bold or normal */
+
+/* Color for the tab focus (keyboard-based navigation)*/
+$tab                        : mix(#fff, $primary, 30%);
+
+/* Color for buttons and notices (UI elements)*/
+$unused-color               : #ff0000;
+$danger-color               : $unused-color;
+$info-color                 : $unused-color;
+$notice-color               : $unused-color;
+$success-color              : $unused-color;
+$warning-color              : $unused-color;
+
+/* Other basic settings for the template */
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Light theme for the site */
+:root {
+    --global-base-color                 : #{$background-dark};  /* for interactive elements */
+    --global-bg-color                   : #{$background};  /* for all backgrounds except header and footer */
+    --global-header-bg-color            : #{$background-dark};
+    --global-footer-bg-color            : #{$background-dark};
+    --global-border-color               : #{$primary}; /* all borders, include bottom lines when navigation elements are hovered */
+    --global-profilepic-border-color    : #{$background};  /* the circle around the profile picture */
+    --global-footer-border-color        : #{$background-darker};  /* the line between the footer and the main text */
+    --global-link-color                 : #{$main-link-color};  /* color of links in the main text */
+    --global-link-color-hover           : #{$main-link-color-hover};  /* color of links in the main text when hovered */
+    --global-link-font-weight           : #{$main-link-font-weight};  /* font weight of links in the main text */
+    --global-masthead-link-color        : #{$text};  /* color of links in the header */
+    --global-masthead-link-color-hover  : #{$text};  /* color of links in the header when hovered */
+    --global-text-color                 : #{$text};  /* color of text in the main text */
+    --global-text-color-light           : #{$text};  /* color of text in footer and footnotes */
+    --global-tab-color                  : #{$tab};  /* color of the tab focus */
+    --global-code-background-color      : #fafafa;
+    --global-code-text-color            : #{$text};
+    --global-fig-caption-color          : #{$primary};
+}
+
