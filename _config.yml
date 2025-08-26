@@ -8,7 +8,7 @@
 
 # Basic Site Settingse
 locale                   : "en-US"
-site_theme               : "aurore"  # defined in _sass\theme
+site_theme               : "aurore_dark"  # defined in _sass\theme
 title                    : "Fluid Mechanics, Artificial Intelligence, Biophysics"  # goes to topleft of the page, also in browser page title (page title - website title)
 title_separator          : "-"
 name                     : &name "Aurore Loisy"  # will appear in the copyright footer
