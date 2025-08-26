@@ -4,14 +4,14 @@ title: "Aurore Loisy"  # page title as shown in browser (page title - website ti
 author_profile: true
 redirect_from: 
   - /home/
-  - /home.html
+  - /home.ht
 ---
 
 # About
 
-I am a researcher interested in everything that moves in flows, whether passively (bubbles, particles) or actively (bacteria, animals). 
+My research revolves around things that moves in flows, whether passively (bubbles, particles) or actively (bacteria, animals). I usually study them using a combination of numerical simulations and theoretical analyses. 
 
-My current research lies at the crossroads of fluid mechanics, artificial intelligence and biophysics. I aim at deciphering the algorithms that living entities use to navigate their complex environment, from immune cells in human tissues to insects in turbulent flows. My goal is also to find ways to outsmart them, with applications to the design of artificial microswimmers and microdrones.
+In the last years, I have become interested in reinforcement learning as a tool to understand how animals navigate efficiently in flows. The goal is also to find ways to outsmart them, with applications to the design of artificial microswimmers and microdrones.
 
 I am the main developer of [OTTO](https://github.com/C0PEP0D/otto), a software dedicated to olfactory navigation and its solutions. It implements an original reinforcement learning algorithm that trains a deep neural network at finding an odor source in turbulence faster than any other known strategy.
 
