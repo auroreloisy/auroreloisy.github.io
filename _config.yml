@@ -6,9 +6,9 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-# Basic Site Settings
+# Basic Site Settingse
 locale                   : "en-US"
-site_theme               : "aurore" # available options are "default", "air", "aurore"
+site_theme               : "aurore"  # defined in _sass\theme
 title                    : "Fluid Mechanics, Artificial Intelligence, Biophysics"  # goes to topleft of the page, also in browser page title (page title - website title)
 title_separator          : "-"
 name                     : &name "Aurore Loisy"  # will appear in the copyright footer
