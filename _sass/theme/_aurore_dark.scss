@@ -16,6 +16,9 @@ $main-link-color            : $primary;
 $main-link-color-hover      : $main-link-color;
 $main-link-font-weight      : bold;  /* bold or normal */
 
+/* Color for the tab focus (keyboard-based navigation)*/
+$tab                        : mix(#fff, $primary, 20%);
+
 /* Color for buttons and notices (UI elements)*/
 $unused-color               : #ff0000;
 $danger-color               : $unused-color;
@@ -50,6 +53,7 @@ html[data-theme="dark"] {
     --global-masthead-link-color-hover  : #{$text};  /* color of links in the header when hovered */
     --global-text-color                 : #{$text};  /* color of text in the main text */
     --global-text-color-light           : #{$text};  /* color of text in footer and footnotes */
+    --global-tab-color                  : #{$tab};  /* color of the tab focus */
     --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$text};
     --global-fig-caption-color          : #{$primary};
