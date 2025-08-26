@@ -4,9 +4,9 @@
 
 %tab-focus {
   /* Default*/
-  outline: thin dotted var(--global-link-color);
+  outline: thin solid var(--global-link-color) !important;
   /* Webkit*/
-  outline: 5px auto var(--global-link-color);
+  outline: 5px solid var(--global-link-color) !important;
   outline-offset: -2px;
 }
 
