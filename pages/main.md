@@ -9,7 +9,7 @@ redirect_from:
 
 # About
 
-My research revolves around things that move in fluids, whether passively (bubbles, particles) or actively (bacteria, cells, plankton).
+My research revolves around things that move in fluids, whether passively (bubbles, particles) or actively (bacteria, plankton).
 
 In the last years, I have become interested in reinforcement learning as a tool to understand how animals navigate efficiently in flows. The goal is also to find ways to outsmart them, with applications to the design of artificial microswimmers and microdrones.
 
