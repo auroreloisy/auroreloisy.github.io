@@ -6,9 +6,9 @@
   /* Default*/
   outline: thin dotted $warning-color;;
   /* Webkit*/
-  outline: 1px solid rgba(var(--global-link-color), 0.4) !important;
+  outline: 1px solid rgba(var(--global-link-color), 0.8) !important;
   /*outline-offset: -2px !important; */
-  padding: 2px 4px !important;
+  /*padding: 2px 4px !important; */
   border-radius: 5px !important;
 }
 /*
