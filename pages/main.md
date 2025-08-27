@@ -46,7 +46,7 @@ under review (2025)\
 S. Mecanna, A. Loisy and C. Eloy\
 *17th European Workshop on Reinforcement Learning (EWRL) (2024)*\
 <a href="http://auroreloisy.github.io/papers/Mecanna2024_EWRL_rl-pomdp-navigation.pdf" class="pub-btn">PDF</a>
-<a href="https://openreview.net/forum?id=9JAajeK84e" class="pub-btn">DOI</a>
+<a href="https://openreview.net/forum?id=9JAajeK84e" class="pub-btn">OpenReview</a>
 
 
 [13] **Deep reinforcement learning for the olfactory search POMDP: a quantitative benchmark**\
