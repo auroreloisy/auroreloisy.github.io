@@ -4,7 +4,7 @@ title: "Aurore Loisy"  # page title as shown in browser (page title - website ti
 author_profile: true
 redirect_from: 
   - /home/
-  - /home.ht
+  - /home.html
 ---
 
 # About
@@ -38,7 +38,7 @@ In 2018, we demonstrated that mechanical energy can be extracted from an 'active
 
 [15] **A critical assessment of reinforcement learning methods for microswimmer navigation in complex flows**\
 S. Mecanna, A. Loisy and C. Eloy\
-under review (2025)\
+Accepted in *The European Physical Journal E* (2025)\
 <a href="https://arxiv.org/abs/2505.05525" class="pub-btn">arXiv</a>
 
 
