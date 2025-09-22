@@ -9,7 +9,7 @@ redirect_from:
 
 # About
 
-My research revolves around things that move in fluids: passively (bubbles, particles), actively (bacteria, plankton), and possibly in a smart way. In this context, I am broadly interested in optimal decision-making at the individual and collective level, from living organisms or bio-inspired robots.
+My research revolves around things that move in fluids: passively (bubbles, particles), actively (bacteria, plankton), and possibly in a smart way (from single cells to robots). In this latter context, I am interested in optimal decision-making at the individual and collective levels.
 
 In the last years, I have started to use reinforcement learning as a tool to understand how animals navigate efficiently in flows. The goal is also to find ways to outsmart them, with applications to the design of artificial microswimmers and microdrones.
 
