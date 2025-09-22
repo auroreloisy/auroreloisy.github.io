@@ -9,9 +9,9 @@ redirect_from:
 
 # About
 
-My research revolves around things that move in fluids, whether passively (bubbles, particles) or actively (bacteria, plankton).
+My research revolves around things that move in fluids, whether passively (bubbles, particles) or actively (bacteria, plankton). I am particularly in particles with a "brain" (living organisms or bio-inspired robots) able to make decisions at the individual or collective level.
 
-In the last years, I have become interested in reinforcement learning as a tool to understand how animals navigate efficiently in flows. The goal is also to find ways to outsmart them, with applications to the design of artificial microswimmers and microdrones.
+In the last years, I have started to use reinforcement learning as a tool to understand how animals navigate efficiently in flows. The goal is also to find ways to outsmart them, with applications to the design of artificial microswimmers and microdrones.
 
 I am the main developer of [OTTO](https://github.com/C0PEP0D/otto), a software dedicated to olfactory navigation. It implements an original reinforcement learning algorithm that trains a deep neural network at finding an odor source in turbulence faster than any other known strategy.
 
