@@ -38,7 +38,8 @@ In 2018, we demonstrated that mechanical energy can be extracted from an 'active
 
 [15] **A critical assessment of reinforcement learning methods for microswimmer navigation in complex flows**\
 S. Mecanna, A. Loisy and C. Eloy\
-Accepted in *The European Physical Journal E* (2025)\
+*The European Physical Journal E* 48, 58 (2025)\
+<a href="https://doi.org/10.1140/epje/s10189-025-00522-2" class="pub-btn">DOI</a>
 <a href="https://arxiv.org/abs/2505.05525" class="pub-btn">arXiv</a>
 
 
