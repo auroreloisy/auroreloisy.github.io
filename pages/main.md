@@ -17,13 +17,7 @@ I am the main developer of [OTTO](https://github.com/C0PEP0D/otto), a software d
 
 # Job openings
 
-[PhD at the physics-biology interface](http://auroreloisy.github.io/jobs/2026_PhD_Mignot-Loisy_collective-behaviour-myxococcus.pdf) on the modeling of collective behaviour of myxobacteria during predation (th/num/exp)
-
-[M2 internship](http://auroreloisy.github.io/jobs/2026_M2_Mignot-Loisy_collective-behaviour-myxococcus.pdf) on the modeling of collective behaviour of myxobacteria during predation (th/num/exp)
-
-[M2 internship](http://auroreloisy.github.io/jobs/2026_M2_Bordoloi-Loisy_bacteria-porous.pdf) on simulation of chemotactic bacteria in porous media flows (th/num)
-
-Spontaneous applications for internships, PhDs or postdocs are also welcome.
+Spontaneous applications for internships, PhDs or postdocs are welcome.
 
 # Highlights
 
