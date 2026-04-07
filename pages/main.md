@@ -15,10 +15,6 @@ In the last years, I have started to use reinforcement learning as a tool to und
 
 I am the main developer of [OTTO](https://github.com/C0PEP0D/otto), a software dedicated to olfactory navigation. It implements an original reinforcement learning algorithm that trains a deep neural network at finding an odor source in turbulence faster than any other known strategy.
 
-# Job openings
-
-Spontaneous applications for internships, PhDs or postdocs are welcome.
-
 # Highlights
 
 In 2022, we trained a deep neural network to locate an odor source, a task relevant to insects looking for food but also sniffer robots tracking down gas leaks \[09\]:
