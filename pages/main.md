@@ -17,7 +17,7 @@ I am the main developer of [OTTO](https://github.com/C0PEP0D/otto), a software d
 
 # News
 
-The [NCTR school (New Challenges in Turbulence Research)](https://nctr.eu/index.php/en/) will take place in February in Les Houches, with 12 lectures on the theme "Moving through Turbulence".
+The [NCTR school (New Challenges in Turbulence Research)](https://nctr.eu/index.php/en/) will take place in February 2027 in Les Houches (French Alps), with 12 lectures on the theme "Moving through Turbulence".
 
 # Job openings
 
