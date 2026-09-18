@@ -15,6 +15,10 @@ In the last years, I have started to use reinforcement learning as a tool to und
 
 I am the main developer of [OTTO](https://github.com/C0PEP0D/otto), a software dedicated to olfactory navigation. It implements an original reinforcement learning algorithm that trains a deep neural network at finding an odor source in turbulence faster than any other known strategy.
 
+# News
+
+The [NCTR school (New Challenges in Turbulence Research)](https://nctr.eu/index.php/en/) will take place in February in Les Houches, with 12 lectures on the theme "Moving through Turbulence".
+
 # Job openings
 
 There are currently no PhD or postdoc positions available.
