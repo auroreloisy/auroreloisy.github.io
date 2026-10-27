@@ -11,7 +11,7 @@ redirect_from:
 
 My research revolves around things that move in fluids: passively (bubbles, particles), actively (bacteria, plankton), and possibly in a smart way (from single cells to robots). In this latter context, I am interested in optimal decision-making at the individual and collective levels.
 
-In the last years, I have started to use reinforcement learning as a tool to understand how animals navigate efficiently in flows. The goal is also to find ways to outsmart them, with applications to the design of artificial microswimmers and microdrones.
+In the last years, I have started to use reinforcement learning as a tool to understand how animals navigate efficiently in complex flows. The goal is also to find ways to outsmart them, with applications to the design of artificial microswimmers and microdrones.
 
 I am the main developer of [OTTO](https://github.com/C0PEP0D/otto), a software dedicated to olfactory navigation. It implements an original reinforcement learning algorithm that trains a deep neural network at finding an odor source in turbulence faster than any other known strategy.
 
@@ -25,10 +25,10 @@ There are currently no PhD or postdoc positions available.
 
 # Highlights
 
-We trained a deep neural network to locate an odor source, a task relevant to insects looking for food but also sniffer robots tracking down gas leaks \[09\]:
+We trained a deep neural network to locate an odor source, a task relevant to insects looking for food but also sniffer robots tracking down gas leaks \[09,13\]:
 * [Centrale Marseille Actualités](https://www.centrale-mediterranee.fr/fr/aurore-loisy-post-doctorante-entrainer-une-intelligence-artificielle-pour-faire-aussi-bien-que-0): *Entraîner une intelligence artificielle pour faire aussi bien que l’Humain dans la recherche olfactive*
 
-We showed that planktonic organisms can exploit turbulent fluctuations to migrate much more efficiently in the ocean by 'surfing' the flow \[11\]:
+We showed that planktonic organisms can exploit turbulent fluctuations to migrate much more efficiently in the ocean by 'surfing' the flow \[11,15\]:
 * [Le Monde Science & Médecine](https://www.lemonde.fr/sciences/article/2022/09/08/comment-le-copepode-surfe-pour-monter-et-descendre-plus-vite-dans-l-ocean_6140660_1650684.html): *Comment le copépode 'surfe' pour monter et descendre plus vite dans l'océan*, by David Larousserie
 * [Physics Magazine](https://physics.aps.org/articles/v15/122): *Turbulence-Surfing Plankton Can Double Their Speed*, by Katherine Wright
 * [CNRS INSIS Actualités](https://www.insis.cnrs.fr/index.php/fr/cnrsinfo/pour-aller-deux-fois-plus-vite-le-plancton-peut-surfer-sur-les-turbulences): *Pour aller deux fois plus vite, le plancton peut surfer sur les turbulences*
